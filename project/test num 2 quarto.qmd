@@ -1,0 +1,264 @@
+---
+title: "Global Inequalities in ARI Management: A UNICEF Data Analysis"
+subtitle: "Examining Healthcare Access for Children Under 5 Across Continents and Gender "
+author: "Mathéo Le Bolloch"
+date: "25 April 2024"
+format:
+  html: 
+    theme: "Flatly"
+    backgroundcolor: "#DEB887"
+    highlight: "tango"
+    toc: true
+    code:
+      font_size: 80%
+    fig_caption: true
+execute: 
+  echo: false
+  warning: false
+  message: false
+---
+
+```{r}
+#| label: setup
+#| include : false
+
+
+# libraries
+library(tidyverse)
+library(plotly)
+library(maps)
+library(patchwork)
+
+# data
+Health_expe_GDP2 <- read_csv("Quarto obs/Health_expe-GDP2.csv")
+unicef_indicator_2 <- read_csv("Quarto obs/unicef_indicator_2.csv")
+unicef_metadata <- read_csv("Quarto obs/unicef_metadata.csv")
+
+# transformations
+data_join <- Health_expe_GDP2 %>%
+  dplyr::full_join(unicef_metadata, by = c("country", "year")) %>%
+  dplyr::full_join(unicef_indicator_2, by = c("CodeC", "country", "year"))
+
+# Calculate average life expectancy
+avg_lifeExp <- data_join %>%
+  dplyr::group_by(country) %>%
+  dplyr::summarise(avg_lifeExp = mean(obs_value, na.rm = TRUE))
+
+# Filter data to remove NA values
+unicef_indicator_2_filtered <- filter(unicef_indicator_2, !is.na(obs_value))
+
+# Join data for scatter plot
+scatter_data <- left_join(avg_lifeExp, unicef_indicator_2_filtered, by = "country")
+
+# Define continent colors
+continent_colors <- c("Oceania" = "chartreuse", 
+                      "Americas" = "yellow", 
+                      "Europe" = "blue", 
+                      "Asia" = "purple", 
+                      "Africa" = "red")
+```
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Logo_of_UNICEF.svg" alt="Healthcare Image" width="500" height="300">
+
+
+<img src="https://quarto.org/quarto.png" alt="Healthcare Image" width="500" height="150">
+
+
+## **Introduction:**  
+*Unveiling Global Healthcare Disparities*
+
+Embark on a revealing exploration of healthcare disparities across the globe. Drawing upon the UNICEF dataset, we shed light on the intricate web of factors influencing healthcare accessibility and its profound impact on child health.
+
+*NOTE: The data used are from the UNICEF Website, on a dataset analysing Careseeking for ARI - percentage of children (under age 5) with acute respiratory infection symptoms whom advice or treatment was sought from a health facility or provider, we will use the term "obs_value" in this document*
+
+---
+
+## **Mapping ARI Management:**  
+*A Vital Indicator of Healthcare Efficacy*
+
+Our inaugural map unveils the average percentage of children under 5 with Acute Respiratory Infection (ARI) symptoms who sought medical care. Beyond highlighting immediate healthcare access, it offers a glimpse into the effectiveness of broader healthcare infrastructures tailored to child health needs.
+
+We can see here a clear concentration of low access to healthcare in Central and North Africa. 
+
+```{r}
+#| fig-cap: "Map showing the average percentage of children under 5 with ARI symptoms who have consulted a health facility across countries."
+map_world <- map_data("world")
+avg_lifeExp <- data_join %>%
+  dplyr::group_by(country) %>%
+  dplyr::summarise(avg_lifeExp = mean(obs_value, na.rm = TRUE))
+
+map_data_join_obs_value <- left_join(map_world, unicef_indicator_2 %>% select(country, obs_value), 
+                                     by = c("region" = "country"), 
+                                     suffix = c("", ".obs_value"),
+                                     copy = TRUE,
+                                     keep = TRUE,
+                                     na_matches = "na",
+                                     relationship = "many-to-many")
+map_data_join_obs_value <- filter(map_data_join_obs_value, !is.na(obs_value))
+
+ggplot(map_data_join_obs_value, aes(x = long, y = lat, group = group, fill = obs_value)) +
+  geom_polygon() +
+  scale_fill_viridis_c(name = "obs_value", na.value = "", guide = "colorbar") +
+  labs(title = "UNICEF Indicator (obs_value) Across Countries",
+       fill = "obs_value",
+       caption = "Source: Unicef data set") +
+  theme_minimal()
+
+
+```
+*NOTE: Some countries have been removed from the visualization for the sake of clarity. They have been removed because they were not necessarily relevant to display.*
+
+## **Comparing Healthcare Accessibility and Life Expectancy Across Countries: An Inevitable Recurrence**  
+
+---
+
+Our top map unveils the average percentage of children under 5 with Acute Respiratory Infection (ARI) symptoms who sought medical care. This insight illuminates the accessibility and utilization of healthcare services for this vulnerable age group across diverse nations.
+
+---
+
+The bottom map showcases the average life expectancy across various countries. Comparing it with the first map reveals potential correlations between healthcare accessibility (as inferred from the ARI management rate) and overall life expectancy. Regions with limited healthcare access often exhibit shorter life expectancies, underscoring the pivotal role of accessible healthcare in shaping population health outcomes.
+
+---
+
+## **Life Expectancy: A Reflection of Healthcare Accessibility**
+
+Our subsequent map visualizes the average life expectancy across countries. Contrasting this with our prior map, we discern potential correlations between healthcare accessibility and life expectancy. This juxtaposition illuminates the profound and widespread effects of healthcare disparities on population health outcomes.
+
+```{r}
+#| fig-cap: "Map illustrating the average life expectancy across different countries."
+
+map_data_join_avg <- dplyr::full_join(avg_lifeExp, map_world, by = c("country" = "region"))
+ggplot(map_data_join_avg, aes(x =long, y =lat, group = group, fill = avg_lifeExp)) +
+  geom_polygon() +
+  scale_fill_gradient(low = "red", high = "green", name = "Average Life Expectancy") +
+  labs(title = "Average Life Expectancy Across Countries",
+       fill = "Average Life Expectancy",
+       caption = "Source: Unicef dataset") +
+  theme_minimal()
+
+
+```
+## **Gender Disparities: A Comprehensive Insight**
+
+Our ensuing bar chart illuminates average healthcare accessibility across continents and genders. This visualization unveils potential gender disparities in healthcare access, guiding focus towards regions warranting targeted interventions.
+
+```{r}
+#| fig-cap: "Comparing Average Healthcare Accessibility by Continent and Gender: Exploring the Gender Disparities in Access to Healthcare Services Across Different Continents"
+#Bar chart
+
+unicef_indicator_2_filtered <- filter(unicef_indicator_2, !is.na(obs_value))
+
+continent_order <- unicef_indicator_2_filtered %>%
+  arrange(Region) %>%
+  pull(Region) %>%
+  unique()
+
+unicef_indicator_2_filtered$Region <- factor(unicef_indicator_2_filtered$Region, levels = continent_order)
+
+ggplot(unicef_indicator_2_filtered, aes(x = Region, y = obs_value, fill = sex)) +
+  geom_bar(stat = "summary", fun.y = "mean", position = "dodge") +
+  scale_fill_manual(values = c("blue", "pink", "purple"), 
+                    breaks = c("Male", "Female", "Total"),
+                    labels = c("Male", "Female", "Total")) +
+  labs(title = "Average UNICEF Indicator (obs_value) by Continent and Sex",
+       x = "Continent",
+       y = "Average obs_value",
+       fill = "Sex",
+       caption = "Source: UNICEF") +
+  theme_minimal()
+
+```
+## **Sub-regional Analysis: Revealing Intricate Patterns**
+
+Our histogram dissects average healthcare indicators by sub-regions, providing a detailed perspective often concealed in broader continental overviews.
+
+```{r}
+#Graph Histogram 
+avg_obs_value_sub_region <- unicef_indicator_2_filtered %>%
+  group_by(`Sub-region`) %>%
+  summarise(avg_obs_value = mean(obs_value, na.rm = TRUE)) %>%
+  arrange(avg_obs_value)
+sub_region_colors <- c("Australia and New Zealand" = "green", 
+                       "Caribbean" = "yellow", 
+                       "Central America" = "yellow",
+                       "Eastern Africa" = "red", 
+                       "Eastern Asia" = "purple",
+                       "Eastern Europe" = "blue",
+                       "Melanesia" = "green",
+                       "Micronesia" = "green",
+                       "Middle Africa" = "red",
+                       "Northern Africa" = "red",
+                       "Northern America" = "yellow",
+                       "Northern Europe" = "blue",
+                       "Polynesia" = "green",
+                       "South America" = "yellow",
+                       "South-Eastern Asia" = "purple",
+                       "Southern Africa" = "red",
+                       "Southern Asia" = "purple",
+                       "Southern Europe" = "blue",
+                       "Western Africa" = "red",
+                       "Western Asia" = "purple",
+                       "Western Europe" = "blue",
+                       "Latin America and the Caribbean" = "yellow",
+                       "South-eastern Asia" = "purple",
+                       "Central Asia"= "purple",
+                       "Sub-Saharan Africa" = "red")
+ggplot(avg_obs_value_sub_region, aes(x = avg_obs_value, y = reorder(`Sub-region`, avg_obs_value), fill = `Sub-region`)) +
+  geom_bar(stat = "identity") +
+  scale_fill_manual(values = sub_region_colors, 
+                    breaks = names(sub_region_colors)) +
+  labs(title = "Average obs_value by Sub-region",
+       x = "Average obs_value",
+       y = "Sub-region",
+       fill = "Sub-region",
+       caption = "Source: UNICEF") +
+  theme_minimal() +
+  theme(axis.text.y = element_text(hjust = 1))
+
+```
+## **Exploring Health Expenditure and Life Expectancy**
+
+The scatter plot offers a comparative analysis between average health expenditure and life expectancy across countries. This visual exploration delves into the relationship between healthcare spending and health outcomes, shedding light on the impact of healthcare investments on population health.
+
+**Key Insights**:
+
+These visualizations collectively provide a holistic view of healthcare access and outcomes across various countries. They spotlight regions necessitating immediate attention and targeted interventions to bridge healthcare disparities and enhance health outcomes.
+
+```{r}
+#| fig-cap: "Exploring the Relationship Between Average Healthcare Expenditure and Child Healthcare Access Across Continents: A Comparative Scatter Plot Analysis"
+# Scatter plot
+ggplot(scatter_data, aes(x = avg_lifeExp, y = obs_value, color = Region)) +
+  geom_point(size = 3) +
+  scale_color_manual(values = continent_colors) +
+  labs(title = "Average Life Expectancy vs Average obs_value by Country",
+       x = "Average Life Expectancy",
+       y = "Average obs_value",
+       color = "Continent",
+       caption = "Source: UNICEF") +
+  theme_minimal()
+
+
+```
+
+
+## **Conclusion & Limitations**
+
+Our analysis reveals significant disparities in healthcare access and outcomes across countries, drawing insights from the UNICEF dataset. While our visual narratives offer valuable perspectives, they are grounded in secondary data, which limits our capacity to establish causal relationships.
+
+**Limitations**:
+
+- The study relies on secondary data from the UNICEF dataset, which may have inherent limitations and biases. 
+
+- In addition, the use of averages may cause biases in the data analysis, as may the cleansing of the core databases of a number of data deemed unusable.
+
+- The cross-sectional nature of the data limits our ability to determine causal relationships between healthcare access, expenditure and health outcomes.
+
+**Future Directions**:
+
+Incorporating longitudinal data and additional contextual factors in future research will be pivotal. This would enable a deeper understanding of the intricate relationship between healthcare access, expenditure, and health outcomes.
+
+**Key Takeaways**:
+
+Despite these limitations, our findings highlight the urgent need for targeted interventions to enhance healthcare accessibility and address disparities. This serves as a foundational step towards achieving universal health coverage and improving global population health.
+
+<img src="https://www.unicef.org/southsudan/sites/unicef.org.southsudan/files/styles/hero_extended/public/Riwoto%20Primary%20Health%20Care%20Centre%2020.jpg.webp?itok=OsoWubEu" alt="Healthcare Image" width="500" height="300">

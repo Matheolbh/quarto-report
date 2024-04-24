@@ -1,0 +1,1148 @@
+CodeC,country,Country Code,year,time_period,obs_value,sex,Region,Sub-region
+ALB2000Tot,Albania,ALB,2000,01/01/2000,83,Total,Europe,Southern Europe
+ARM2000Fem,Armenia,ARM,2000,01/01/2000,29,Female,Asia,Western Asia
+ARM2000Mal,Armenia,ARM,2000,01/01/2000,24,Male,Asia,Western Asia
+ARM2000Tot,Armenia,ARM,2000,01/01/2000,26,Total,Asia,Western Asia
+AZE2000Fem,Azerbaijan,AZE,2000,01/01/2000,42,Female,Asia,Western Asia
+AZE2000Mal,Azerbaijan,AZE,2000,01/01/2000,30,Male,Asia,Western Asia
+AZE2000Tot,Azerbaijan,AZE,2000,01/01/2000,36,Total,Asia,Western Asia
+BGD2000Fem,Bangladesh,BGD,2000,01/01/2000,25,Female,Asia,Southern Asia
+BGD2000Mal,Bangladesh,BGD,2000,01/01/2000,29,Male,Asia,Southern Asia
+BGD2000Tot,Bangladesh,BGD,2000,01/01/2000,27,Total,Asia,Southern Asia
+BOL2000Fem,"Bolivia, Plurinational State of",BOL,2000,01/01/2000,53,Female,Americas,Latin America and the Caribbean
+BOL2000Mal,"Bolivia, Plurinational State of",BOL,2000,01/01/2000,54,Male,Americas,Latin America and the Caribbean
+BOL2000Tot,"Bolivia, Plurinational State of",BOL,2000,01/01/2000,44,Total,Americas,Latin America and the Caribbean
+BIH2000Tot,Bosnia and Herzegovina,BIH,2000,01/01/2000,80,Total,Europe,Southern Europe
+BWA2000Fem,Botswana,BWA,2000,01/01/2000,13,Female,Africa,Sub-Saharan Africa
+BWA2000Mal,Botswana,BWA,2000,01/01/2000,16,Male,Africa,Sub-Saharan Africa
+BWA2000Tot,Botswana,BWA,2000,01/01/2000,14,Total,Africa,Sub-Saharan Africa
+BDI2000Fem,Burundi,BDI,2000,01/01/2000,39,Female,Africa,Sub-Saharan Africa
+BDI2000Mal,Burundi,BDI,2000,01/01/2000,40,Male,Africa,Sub-Saharan Africa
+BDI2000Tot,Burundi,BDI,2000,01/01/2000,40,Total,Africa,Sub-Saharan Africa
+KHM2000Fem,Cambodia,KHM,2000,01/01/2000,33,Female,Asia,South-eastern Asia
+KHM2000Mal,Cambodia,KHM,2000,01/01/2000,40,Male,Asia,South-eastern Asia
+KHM2000Tot,Cambodia,KHM,2000,01/01/2000,37,Total,Asia,South-eastern Asia
+CMR2000Fem,Cameroon,CMR,2000,01/01/2000,22,Female,Africa,Sub-Saharan Africa
+CMR2000Mal,Cameroon,CMR,2000,01/01/2000,27,Male,Africa,Sub-Saharan Africa
+CMR2000Tot,Cameroon,CMR,2000,01/01/2000,25,Total,Africa,Sub-Saharan Africa
+CAF2000Fem,Central African Republic,CAF,2000,01/01/2000,32,Female,Africa,Sub-Saharan Africa
+CAF2000Mal,Central African Republic,CAF,2000,01/01/2000,32,Male,Africa,Sub-Saharan Africa
+CAF2000Tot,Central African Republic,CAF,2000,01/01/2000,32,Total,Africa,Sub-Saharan Africa
+TCD2000Fem,Chad,TCD,2000,01/01/2000,21,Female,Africa,Sub-Saharan Africa
+TCD2000Mal,Chad,TCD,2000,01/01/2000,22,Male,Africa,Sub-Saharan Africa
+TCD2000Tot,Chad,TCD,2000,01/01/2000,22,Total,Africa,Sub-Saharan Africa
+COL2000Tot,Colombia,COL,2000,01/01/2000,51,Total,Americas,Latin America and the Caribbean
+COM2000Fem,Comoros,COM,2000,01/01/2000,57,Female,Africa,Sub-Saharan Africa
+COM2000Mal,Comoros,COM,2000,01/01/2000,56,Male,Africa,Sub-Saharan Africa
+COM2000Tot,Comoros,COM,2000,01/01/2000,56,Total,Africa,Sub-Saharan Africa
+CIV2000Fem,Ivory Coast,CIV,2000,01/01/2000,38,Female,Africa,Sub-Saharan Africa
+CIV2000Mal,Ivory Coast,CIV,2000,01/01/2000,37,Male,Africa,Sub-Saharan Africa
+CIV2000Tot,Ivory Coast,CIV,2000,01/01/2000,38,Total,Africa,Sub-Saharan Africa
+DOM2000Tot,Dominican Republic,DOM,2000,01/01/2000,68,Total,Americas,Latin America and the Caribbean
+EGY2000Fem,Egypt,EGY,2000,01/01/2000,64,Female,Africa,Northern Africa
+EGY2000Mal,Egypt,EGY,2000,01/01/2000,68,Male,Africa,Northern Africa
+EGY2000Tot,Egypt,EGY,2000,01/01/2000,66,Total,Africa,Northern Africa
+SWZ2000Fem,Swaziland,SWZ,2000,01/01/2000,62,Female,Africa,Sub-Saharan Africa
+SWZ2000Mal,Swaziland,SWZ,2000,01/01/2000,58,Male,Africa,Sub-Saharan Africa
+SWZ2000Tot,Swaziland,SWZ,2000,01/01/2000,60,Total,Africa,Sub-Saharan Africa
+ETH2000Fem,Ethiopia,ETH,2000,01/01/2000,14,Female,Africa,Sub-Saharan Africa
+ETH2000Mal,Ethiopia,ETH,2000,01/01/2000,17,Male,Africa,Sub-Saharan Africa
+ETH2000Tot,Ethiopia,ETH,2000,01/01/2000,16,Total,Africa,Sub-Saharan Africa
+GMB2000Fem,Gambia,GMB,2000,01/01/2000,79,Female,Africa,Sub-Saharan Africa
+GMB2000Mal,Gambia,GMB,2000,01/01/2000,71,Male,Africa,Sub-Saharan Africa
+GMB2000Tot,Gambia,GMB,2000,01/01/2000,75,Total,Africa,Sub-Saharan Africa
+GNB2000Fem,Guinea-Bissau,GNB,2000,01/01/2000,65,Female,Africa,Sub-Saharan Africa
+GNB2000Mal,Guinea-Bissau,GNB,2000,01/01/2000,64,Male,Africa,Sub-Saharan Africa
+GNB2000Tot,Guinea-Bissau,GNB,2000,01/01/2000,64,Total,Africa,Sub-Saharan Africa
+GUY2000Fem,Guyana,GUY,2000,01/01/2000,85,Female,Americas,Latin America and the Caribbean
+GUY2000Mal,Guyana,GUY,2000,01/01/2000,72,Male,Americas,Latin America and the Caribbean
+GUY2000Tot,Guyana,GUY,2000,01/01/2000,78,Total,Americas,Latin America and the Caribbean
+HTI2000Fem,Haiti,HTI,2000,01/01/2000,27,Female,Americas,Latin America and the Caribbean
+HTI2000Mal,Haiti,HTI,2000,01/01/2000,25,Male,Americas,Latin America and the Caribbean
+HTI2000Tot,Haiti,HTI,2000,01/01/2000,26,Total,Americas,Latin America and the Caribbean
+IRN2000Tot,"Iran, Islamic Republic of",IRN,2000,01/01/2000,93,Total,Asia,Southern Asia
+IRQ2000Tot,Iraq,IRQ,2000,01/01/2000,76,Total,Asia,Western Asia
+JAM2000Tot,Jamaica,JAM,2000,01/01/2000,39,Total,Americas,Latin America and the Caribbean
+LAO2000Fem,Lao People's Democratic Republic,LAO,2000,01/01/2000,37,Female,Asia,South-eastern Asia
+LAO2000Mal,Lao People's Democratic Republic,LAO,2000,01/01/2000,36,Male,Asia,South-eastern Asia
+LAO2000Tot,Lao People's Democratic Republic,LAO,2000,01/01/2000,36,Total,Asia,South-eastern Asia
+LBN2000Fem,Lebanon,LBN,2000,01/01/2000,76.4,Female,Asia,Western Asia
+LBN2000Mal,Lebanon,LBN,2000,01/01/2000,71.8,Male,Asia,Western Asia
+LBN2000Tot,Lebanon,LBN,2000,01/01/2000,73.6,Total,Asia,Western Asia
+LSO2000Fem,Lesotho,LSO,2000,01/01/2000,50,Female,Africa,Sub-Saharan Africa
+LSO2000Mal,Lesotho,LSO,2000,01/01/2000,49,Male,Africa,Sub-Saharan Africa
+LSO2000Tot,Lesotho,LSO,2000,01/01/2000,49,Total,Africa,Sub-Saharan Africa
+MDG2000Fem,Madagascar,MDG,2000,01/01/2000,44,Female,Africa,Sub-Saharan Africa
+MDG2000Mal,Madagascar,MDG,2000,01/01/2000,50,Male,Africa,Sub-Saharan Africa
+MDG2000Tot,Madagascar,MDG,2000,01/01/2000,47,Total,Africa,Sub-Saharan Africa
+MWI2000Fem,Malawi,MWI,2000,01/01/2000,27,Female,Africa,Sub-Saharan Africa
+MWI2000Mal,Malawi,MWI,2000,01/01/2000,26,Male,Africa,Sub-Saharan Africa
+MWI2000Tot,Malawi,MWI,2000,01/01/2000,27,Total,Africa,Sub-Saharan Africa
+MNG2000Fem,Mongolia,MNG,2000,01/01/2000,78,Female,Asia,Eastern Asia
+MNG2000Mal,Mongolia,MNG,2000,01/01/2000,78,Male,Asia,Eastern Asia
+MNG2000Tot,Mongolia,MNG,2000,01/01/2000,78,Total,Asia,Eastern Asia
+MMR2000Fem,Burma,MMR,2000,01/01/2000,46,Female,Asia,South-eastern Asia
+MMR2000Mal,Burma,MMR,2000,01/01/2000,50,Male,Asia,South-eastern Asia
+MMR2000Tot,Burma,MMR,2000,01/01/2000,48,Total,Asia,South-eastern Asia
+NAM2000Fem,Namibia,NAM,2000,01/01/2000,53,Female,Africa,Sub-Saharan Africa
+NAM2000Mal,Namibia,NAM,2000,01/01/2000,54,Male,Africa,Sub-Saharan Africa
+NAM2000Tot,Namibia,NAM,2000,01/01/2000,53,Total,Africa,Sub-Saharan Africa
+NER2000Fem,Niger,NER,2000,01/01/2000,27.9,Female,Africa,Sub-Saharan Africa
+NER2000Mal,Niger,NER,2000,01/01/2000,26.3,Male,Africa,Sub-Saharan Africa
+NER2000Tot,Niger,NER,2000,01/01/2000,27.1,Total,Africa,Sub-Saharan Africa
+PER2000Fem,Peru,PER,2000,01/01/2000,59,Female,Americas,Latin America and the Caribbean
+PER2000Mal,Peru,PER,2000,01/01/2000,57,Male,Americas,Latin America and the Caribbean
+PER2000Tot,Peru,PER,2000,01/01/2000,58,Total,Americas,Latin America and the Caribbean
+MDA2000Tot,"Moldova, Republic of",MDA,2000,01/01/2000,78,Total,Europe,Eastern Europe
+RWA2000Fem,Rwanda,RWA,2000,01/01/2000,15,Female,Africa,Sub-Saharan Africa
+RWA2000Mal,Rwanda,RWA,2000,01/01/2000,16,Male,Africa,Sub-Saharan Africa
+RWA2000Tot,Rwanda,RWA,2000,01/01/2000,16,Total,Africa,Sub-Saharan Africa
+STP2000Fem,Sao Tome and Principe,STP,2000,01/01/2000,46,Female,Africa,Sub-Saharan Africa
+STP2000Mal,Sao Tome and Principe,STP,2000,01/01/2000,46,Male,Africa,Sub-Saharan Africa
+STP2000Tot,Sao Tome and Principe,STP,2000,01/01/2000,47,Total,Africa,Sub-Saharan Africa
+SEN2000Fem,Senegal,SEN,2000,01/01/2000,23,Female,Africa,Sub-Saharan Africa
+SEN2000Mal,Senegal,SEN,2000,01/01/2000,30,Male,Africa,Sub-Saharan Africa
+SEN2000Tot,Senegal,SEN,2000,01/01/2000,27,Total,Africa,Sub-Saharan Africa
+SLE2000Fem,Sierra Leone,SLE,2000,01/01/2000,48,Female,Africa,Sub-Saharan Africa
+SLE2000Mal,Sierra Leone,SLE,2000,01/01/2000,51,Male,Africa,Sub-Saharan Africa
+SLE2000Tot,Sierra Leone,SLE,2000,01/01/2000,50,Total,Africa,Sub-Saharan Africa
+PSE2000Tot,"Palestinian Territory, Occupied",PSE,2000,01/01/2000,65,Total,Asia,Western Asia
+SUR2000Fem,Suriname,SUR,2000,01/01/2000,60,Female,Americas,Latin America and the Caribbean
+SUR2000Mal,Suriname,SUR,2000,01/01/2000,56,Male,Americas,Latin America and the Caribbean
+SUR2000Tot,Suriname,SUR,2000,01/01/2000,58,Total,Americas,Latin America and the Caribbean
+TJK2000Fem,Tajikistan,TJK,2000,01/01/2000,55,Female,Asia,Central Asia
+TJK2000Mal,Tajikistan,TJK,2000,01/01/2000,45,Male,Asia,Central Asia
+TJK2000Tot,Tajikistan,TJK,2000,01/01/2000,51,Total,Asia,Central Asia
+TGO2000Fem,Togo,TGO,2000,01/01/2000,24,Female,Africa,Sub-Saharan Africa
+TGO2000Mal,Togo,TGO,2000,01/01/2000,35,Male,Africa,Sub-Saharan Africa
+TGO2000Tot,Togo,TGO,2000,01/01/2000,30,Total,Africa,Sub-Saharan Africa
+TTO2000Tot,Trinidad and Tobago,TTO,2000,01/01/2000,74,Total,Americas,Latin America and the Caribbean
+TUN2000Tot,Tunisia,TUN,2000,01/01/2000,43,Total,Africa,Northern Africa
+VEN2000Fem,"Venezuela, Bolivarian Republic of",VEN,2000,01/01/2000,70,Female,Americas,Latin America and the Caribbean
+VEN2000Mal,"Venezuela, Bolivarian Republic of",VEN,2000,01/01/2000,74,Male,Americas,Latin America and the Caribbean
+VEN2000Tot,"Venezuela, Bolivarian Republic of",VEN,2000,01/01/2000,72,Total,Americas,Latin America and the Caribbean
+VNM2000Fem,Viet Nam,VNM,2000,01/01/2000,60,Female,Asia,South-eastern Asia
+VNM2000Mal,Viet Nam,VNM,2000,01/01/2000,61,Male,Asia,South-eastern Asia
+VNM2000Tot,Viet Nam,VNM,2000,01/01/2000,60,Total,Asia,South-eastern Asia
+BEN2001Fem,Benin,BEN,2001,01/01/2001,34,Female,Africa,Sub-Saharan Africa
+BEN2001Mal,Benin,BEN,2001,01/01/2001,36.2,Male,Africa,Sub-Saharan Africa
+BEN2001Tot,Benin,BEN,2001,01/01/2001,35.1,Total,Africa,Sub-Saharan Africa
+BOL2001Tot,"Bolivia, Plurinational State of",BOL,2001,01/01/2001,45.8,Total,Americas,Latin America and the Caribbean
+COD2001Fem,"Congo, the Democratic Republic of the",COD,2001,01/01/2001,36,Female,Africa,Sub-Saharan Africa
+COD2001Mal,"Congo, the Democratic Republic of the",COD,2001,01/01/2001,35,Male,Africa,Sub-Saharan Africa
+COD2001Tot,"Congo, the Democratic Republic of the",COD,2001,01/01/2001,36,Total,Africa,Sub-Saharan Africa
+GAB2001Fem,Gabon,GAB,2001,01/01/2001,44,Female,Africa,Sub-Saharan Africa
+GAB2001Mal,Gabon,GAB,2001,01/01/2001,51,Male,Africa,Sub-Saharan Africa
+GAB2001Tot,Gabon,GAB,2001,01/01/2001,48,Total,Africa,Sub-Saharan Africa
+MDV2001Fem,Maldives,MDV,2001,01/01/2001,22,Female,Asia,Southern Asia
+MDV2001Mal,Maldives,MDV,2001,01/01/2001,23,Male,Asia,Southern Asia
+MDV2001Tot,Maldives,MDV,2001,01/01/2001,22,Total,Asia,Southern Asia
+MLI2001Fem,Mali,MLI,2001,01/01/2001,33,Female,Africa,Sub-Saharan Africa
+MLI2001Mal,Mali,MLI,2001,01/01/2001,38,Male,Africa,Sub-Saharan Africa
+MLI2001Tot,Mali,MLI,2001,01/01/2001,36,Total,Africa,Sub-Saharan Africa
+MRT2001Fem,Mauritania,MRT,2001,01/01/2001,38,Female,Africa,Sub-Saharan Africa
+MRT2001Mal,Mauritania,MRT,2001,01/01/2001,43,Male,Africa,Sub-Saharan Africa
+MRT2001Tot,Mauritania,MRT,2001,01/01/2001,41,Total,Africa,Sub-Saharan Africa
+NPL2001Fem,Nepal,NPL,2001,01/01/2001,23,Female,Asia,Southern Asia
+NPL2001Mal,Nepal,NPL,2001,01/01/2001,29,Male,Asia,Southern Asia
+NPL2001Tot,Nepal,NPL,2001,01/01/2001,26,Total,Asia,Southern Asia
+NIC2001Fem,Nicaragua,NIC,2001,01/01/2001,57,Female,Americas,Latin America and the Caribbean
+NIC2001Mal,Nicaragua,NIC,2001,01/01/2001,58,Male,Americas,Latin America and the Caribbean
+NIC2001Tot,Nicaragua,NIC,2001,01/01/2001,58,Total,Americas,Latin America and the Caribbean
+UGA2001Fem,Uganda,UGA,2001,01/01/2001,65,Female,Africa,Sub-Saharan Africa
+UGA2001Mal,Uganda,UGA,2001,01/01/2001,68,Male,Africa,Sub-Saharan Africa
+UGA2001Tot,Uganda,UGA,2001,01/01/2001,67,Total,Africa,Sub-Saharan Africa
+DZA2002Tot,Algeria,DZA,2002,01/01/2002,52,Total,Africa,Northern Africa
+BOL2002Tot,"Bolivia, Plurinational State of",BOL,2002,01/01/2002,46.3,Total,Americas,Latin America and the Caribbean
+DJI2002Fem,Djibouti,DJI,2002,01/01/2002,64,Female,Africa,Sub-Saharan Africa
+DJI2002Mal,Djibouti,DJI,2002,01/01/2002,61,Male,Africa,Sub-Saharan Africa
+DJI2002Tot,Djibouti,DJI,2002,01/01/2002,62,Total,Africa,Sub-Saharan Africa
+DOM2002Fem,Dominican Republic,DOM,2002,01/01/2002,63,Female,Americas,Latin America and the Caribbean
+DOM2002Mal,Dominican Republic,DOM,2002,01/01/2002,64,Male,Americas,Latin America and the Caribbean
+DOM2002Tot,Dominican Republic,DOM,2002,01/01/2002,64,Total,Americas,Latin America and the Caribbean
+ERI2002Fem,Eritrea,ERI,2002,01/01/2002,43,Female,Africa,Sub-Saharan Africa
+ERI2002Mal,Eritrea,ERI,2002,01/01/2002,44,Male,Africa,Sub-Saharan Africa
+ERI2002Tot,Eritrea,ERI,2002,01/01/2002,44,Total,Africa,Sub-Saharan Africa
+GTM2002Tot,Guatemala,GTM,2002,01/01/2002,64,Total,Americas,Latin America and the Caribbean
+JOR2002Fem,Jordan,JOR,2002,01/01/2002,73,Female,Asia,Western Asia
+JOR2002Mal,Jordan,JOR,2002,01/01/2002,82,Male,Asia,Western Asia
+JOR2002Tot,Jordan,JOR,2002,01/01/2002,78,Total,Asia,Western Asia
+SYR2002Tot,Syrian Arab Republic,SYR,2002,01/01/2002,66,Total,Asia,Western Asia
+TLS2002Tot,Timor-Leste,TLS,2002,01/01/2002,57,Total,Asia,South-eastern Asia
+VNM2002Fem,Viet Nam,VNM,2002,01/01/2002,65,Female,Asia,South-eastern Asia
+VNM2002Mal,Viet Nam,VNM,2002,01/01/2002,76,Male,Asia,South-eastern Asia
+VNM2002Tot,Viet Nam,VNM,2002,01/01/2002,71,Total,Asia,South-eastern Asia
+ZMB2002Fem,Zambia,ZMB,2002,01/01/2002,70,Female,Africa,Sub-Saharan Africa
+ZMB2002Mal,Zambia,ZMB,2002,01/01/2002,68,Male,Africa,Sub-Saharan Africa
+ZMB2002Tot,Zambia,ZMB,2002,01/01/2002,69,Total,Africa,Sub-Saharan Africa
+BFA2003Fem,Burkina Faso,BFA,2003,01/01/2003,36,Female,Africa,Sub-Saharan Africa
+BFA2003Mal,Burkina Faso,BFA,2003,01/01/2003,36,Male,Africa,Sub-Saharan Africa
+BFA2003Tot,Burkina Faso,BFA,2003,01/01/2003,36,Total,Africa,Sub-Saharan Africa
+EGY2003Fem,Egypt,EGY,2003,01/01/2003,64,Female,Africa,Northern Africa
+EGY2003Mal,Egypt,EGY,2003,01/01/2003,76,Male,Africa,Northern Africa
+EGY2003Tot,Egypt,EGY,2003,01/01/2003,70,Total,Africa,Northern Africa
+SLV2003Tot,El Salvador,SLV,2003,01/01/2003,62,Total,Americas,Latin America and the Caribbean
+GHA2003Fem,Ghana,GHA,2003,01/01/2003,44,Female,Africa,Sub-Saharan Africa
+GHA2003Mal,Ghana,GHA,2003,01/01/2003,44,Male,Africa,Sub-Saharan Africa
+GHA2003Tot,Ghana,GHA,2003,01/01/2003,44,Total,Africa,Sub-Saharan Africa
+GIN2003Fem,Guinea,GIN,2003,01/01/2003,34,Female,Africa,Sub-Saharan Africa
+GIN2003Mal,Guinea,GIN,2003,01/01/2003,32,Male,Africa,Sub-Saharan Africa
+GIN2003Tot,Guinea,GIN,2003,01/01/2003,33,Total,Africa,Sub-Saharan Africa
+IDN2003Fem,Indonesia,IDN,2003,01/01/2003,62,Female,Asia,South-eastern Asia
+IDN2003Mal,Indonesia,IDN,2003,01/01/2003,60,Male,Asia,South-eastern Asia
+IDN2003Tot,Indonesia,IDN,2003,01/01/2003,61,Total,Asia,South-eastern Asia
+KEN2003Fem,Kenya,KEN,2003,01/01/2003,48,Female,Africa,Sub-Saharan Africa
+KEN2003Mal,Kenya,KEN,2003,01/01/2003,50,Male,Africa,Sub-Saharan Africa
+KEN2003Tot,Kenya,KEN,2003,01/01/2003,49,Total,Africa,Sub-Saharan Africa
+MOZ2003Fem,Mozambique,MOZ,2003,01/01/2003,55,Female,Africa,Sub-Saharan Africa
+MOZ2003Mal,Mozambique,MOZ,2003,01/01/2003,56,Male,Africa,Sub-Saharan Africa
+MOZ2003Tot,Mozambique,MOZ,2003,01/01/2003,55,Total,Africa,Sub-Saharan Africa
+MMR2003Fem,Burma,MMR,2003,01/01/2003,67,Female,Asia,South-eastern Asia
+MMR2003Mal,Burma,MMR,2003,01/01/2003,64,Male,Asia,South-eastern Asia
+MMR2003Tot,Burma,MMR,2003,01/01/2003,66,Total,Asia,South-eastern Asia
+NGA2003Fem,Nigeria,NGA,2003,01/01/2003,33,Female,Africa,Sub-Saharan Africa
+NGA2003Mal,Nigeria,NGA,2003,01/01/2003,32,Male,Africa,Sub-Saharan Africa
+NGA2003Tot,Nigeria,NGA,2003,01/01/2003,33,Total,Africa,Sub-Saharan Africa
+PHL2003Fem,Philippines,PHL,2003,01/01/2003,54,Female,Asia,South-eastern Asia
+PHL2003Mal,Philippines,PHL,2003,01/01/2003,55,Male,Asia,South-eastern Asia
+PHL2003Tot,Philippines,PHL,2003,01/01/2003,55,Total,Asia,South-eastern Asia
+YEM2003Tot,Yemen,YEM,2003,01/01/2003,47,Total,Asia,Western Asia
+BGD2004Fem,Bangladesh,BGD,2004,01/01/2004,17,Female,Asia,Southern Asia
+BGD2004Mal,Bangladesh,BGD,2004,01/01/2004,23,Male,Asia,Southern Asia
+BGD2004Tot,Bangladesh,BGD,2004,01/01/2004,20,Total,Asia,Southern Asia
+BOL2004Fem,"Bolivia, Plurinational State of",BOL,2004,01/01/2004,49,Female,Americas,Latin America and the Caribbean
+BOL2004Mal,"Bolivia, Plurinational State of",BOL,2004,01/01/2004,54,Male,Americas,Latin America and the Caribbean
+BOL2004Tot,"Bolivia, Plurinational State of",BOL,2004,01/01/2004,50.4,Total,Americas,Latin America and the Caribbean
+CMR2004Fem,Cameroon,CMR,2004,01/01/2004,39,Female,Africa,Sub-Saharan Africa
+CMR2004Mal,Cameroon,CMR,2004,01/01/2004,41,Male,Africa,Sub-Saharan Africa
+CMR2004Tot,Cameroon,CMR,2004,01/01/2004,40,Total,Africa,Sub-Saharan Africa
+TCD2004Fem,Chad,TCD,2004,01/01/2004,11,Female,Africa,Sub-Saharan Africa
+TCD2004Mal,Chad,TCD,2004,01/01/2004,13,Male,Africa,Sub-Saharan Africa
+TCD2004Tot,Chad,TCD,2004,01/01/2004,12,Total,Africa,Sub-Saharan Africa
+PRK2004Tot,"Korea, Democratic People's Republic of",PRK,2004,01/01/2004,93,Total,Asia,Eastern Asia
+MDG2004Fem,Madagascar,MDG,2004,01/01/2004,47,Female,Africa,Sub-Saharan Africa
+MDG2004Mal,Madagascar,MDG,2004,01/01/2004,50,Male,Africa,Sub-Saharan Africa
+MDG2004Tot,Madagascar,MDG,2004,01/01/2004,48,Total,Africa,Sub-Saharan Africa
+MAR2004Fem,Morocco,MAR,2004,01/01/2004,34,Female,Africa,Northern Africa
+MAR2004Mal,Morocco,MAR,2004,01/01/2004,42,Male,Africa,Northern Africa
+MAR2004Tot,Morocco,MAR,2004,01/01/2004,38,Total,Africa,Northern Africa
+PER2004Fem,Peru,PER,2004,01/01/2004,69,Female,Americas,Latin America and the Caribbean
+PER2004Mal,Peru,PER,2004,01/01/2004,67,Male,Americas,Latin America and the Caribbean
+PER2004Tot,Peru,PER,2004,01/01/2004,68,Total,Americas,Latin America and the Caribbean
+ZAF2004Fem,South Africa,ZAF,2004,01/01/2004,66,Female,Africa,Sub-Saharan Africa
+ZAF2004Mal,South Africa,ZAF,2004,01/01/2004,64,Male,Africa,Sub-Saharan Africa
+ZAF2004Tot,South Africa,ZAF,2004,01/01/2004,65,Total,Africa,Sub-Saharan Africa
+ALB2005Fem,Albania,ALB,2005,01/01/2005,61,Female,Europe,Southern Europe
+ALB2005Mal,Albania,ALB,2005,01/01/2005,32,Male,Europe,Southern Europe
+ALB2005Tot,Albania,ALB,2005,01/01/2005,45,Total,Europe,Southern Europe
+ARM2005Fem,Armenia,ARM,2005,01/01/2005,24,Female,Asia,Western Asia
+ARM2005Mal,Armenia,ARM,2005,01/01/2005,52,Male,Asia,Western Asia
+ARM2005Tot,Armenia,ARM,2005,01/01/2005,36,Total,Asia,Western Asia
+BLR2005Fem,Belarus,BLR,2005,01/01/2005,89,Female,Europe,Eastern Europe
+BLR2005Mal,Belarus,BLR,2005,01/01/2005,90,Male,Europe,Eastern Europe
+BLR2005Tot,Belarus,BLR,2005,01/01/2005,90,Total,Europe,Eastern Europe
+BDI2005Fem,Burundi,BDI,2005,01/01/2005,39,Female,Africa,Sub-Saharan Africa
+BDI2005Mal,Burundi,BDI,2005,01/01/2005,36,Male,Africa,Sub-Saharan Africa
+BDI2005Tot,Burundi,BDI,2005,01/01/2005,38,Total,Africa,Sub-Saharan Africa
+COL2005Fem,Colombia,COL,2005,01/01/2005,64,Female,Americas,Latin America and the Caribbean
+COL2005Mal,Colombia,COL,2005,01/01/2005,59,Male,Americas,Latin America and the Caribbean
+COL2005Tot,Colombia,COL,2005,01/01/2005,62,Total,Americas,Latin America and the Caribbean
+COG2005Fem,Congo,COG,2005,01/01/2005,48,Female,Africa,Sub-Saharan Africa
+COG2005Mal,Congo,COG,2005,01/01/2005,47,Male,Africa,Sub-Saharan Africa
+COG2005Tot,Congo,COG,2005,01/01/2005,48,Total,Africa,Sub-Saharan Africa
+EGY2005Fem,Egypt,EGY,2005,01/01/2005,61,Female,Africa,Northern Africa
+EGY2005Mal,Egypt,EGY,2005,01/01/2005,66,Male,Africa,Northern Africa
+EGY2005Tot,Egypt,EGY,2005,01/01/2005,63,Total,Africa,Northern Africa
+ETH2005Fem,Ethiopia,ETH,2005,01/01/2005,19,Female,Africa,Sub-Saharan Africa
+ETH2005Mal,Ethiopia,ETH,2005,01/01/2005,19,Male,Africa,Sub-Saharan Africa
+ETH2005Tot,Ethiopia,ETH,2005,01/01/2005,19,Total,Africa,Sub-Saharan Africa
+GEO2005Fem,Georgia,GEO,2005,01/01/2005,70.8,Female,Asia,Western Asia
+GEO2005Mal,Georgia,GEO,2005,01/01/2005,76.4,Male,Asia,Western Asia
+GEO2005Tot,Georgia,GEO,2005,01/01/2005,73.6,Total,Asia,Western Asia
+GIN2005Fem,Guinea,GIN,2005,01/01/2005,42,Female,Africa,Sub-Saharan Africa
+GIN2005Mal,Guinea,GIN,2005,01/01/2005,42,Male,Africa,Sub-Saharan Africa
+GIN2005Tot,Guinea,GIN,2005,01/01/2005,42,Total,Africa,Sub-Saharan Africa
+JAM2005Fem,Jamaica,JAM,2005,01/01/2005,77,Female,Americas,Latin America and the Caribbean
+JAM2005Mal,Jamaica,JAM,2005,01/01/2005,73,Male,Americas,Latin America and the Caribbean
+JAM2005Tot,Jamaica,JAM,2005,01/01/2005,75,Total,Americas,Latin America and the Caribbean
+LSO2005Fem,Lesotho,LSO,2005,01/01/2005,60,Female,Africa,Sub-Saharan Africa
+LSO2005Mal,Lesotho,LSO,2005,01/01/2005,58,Male,Africa,Sub-Saharan Africa
+LSO2005Tot,Lesotho,LSO,2005,01/01/2005,59,Total,Africa,Sub-Saharan Africa
+MWI2005Fem,Malawi,MWI,2005,01/01/2005,36,Female,Africa,Sub-Saharan Africa
+MWI2005Mal,Malawi,MWI,2005,01/01/2005,37,Male,Africa,Sub-Saharan Africa
+MWI2005Tot,Malawi,MWI,2005,01/01/2005,37,Total,Africa,Sub-Saharan Africa
+MNG2005Fem,Mongolia,MNG,2005,01/01/2005,63,Female,Asia,Eastern Asia
+MNG2005Mal,Mongolia,MNG,2005,01/01/2005,63,Male,Asia,Eastern Asia
+MNG2005Tot,Mongolia,MNG,2005,01/01/2005,63,Total,Asia,Eastern Asia
+MDA2005Fem,"Moldova, Republic of",MDA,2005,01/01/2005,61,Female,Europe,Eastern Europe
+MDA2005Mal,"Moldova, Republic of",MDA,2005,01/01/2005,59,Male,Europe,Eastern Europe
+MDA2005Tot,"Moldova, Republic of",MDA,2005,01/01/2005,60,Total,Europe,Eastern Europe
+RWA2005Fem,Rwanda,RWA,2005,01/01/2005,28,Female,Africa,Sub-Saharan Africa
+RWA2005Mal,Rwanda,RWA,2005,01/01/2005,28,Male,Africa,Sub-Saharan Africa
+RWA2005Tot,Rwanda,RWA,2005,01/01/2005,28,Total,Africa,Sub-Saharan Africa
+SEN2005Fem,Senegal,SEN,2005,01/01/2005,45,Female,Africa,Sub-Saharan Africa
+SEN2005Mal,Senegal,SEN,2005,01/01/2005,49,Male,Africa,Sub-Saharan Africa
+SEN2005Tot,Senegal,SEN,2005,01/01/2005,47,Total,Africa,Sub-Saharan Africa
+SLE2005Fem,Sierra Leone,SLE,2005,01/01/2005,45,Female,Africa,Sub-Saharan Africa
+SLE2005Mal,Sierra Leone,SLE,2005,01/01/2005,50,Male,Africa,Sub-Saharan Africa
+SLE2005Tot,Sierra Leone,SLE,2005,01/01/2005,48,Total,Africa,Sub-Saharan Africa
+TJK2005Fem,Tajikistan,TJK,2005,01/01/2005,69,Female,Asia,Central Asia
+TJK2005Mal,Tajikistan,TJK,2005,01/01/2005,60,Male,Asia,Central Asia
+TJK2005Tot,Tajikistan,TJK,2005,01/01/2005,64,Total,Asia,Central Asia
+TZA2005Fem,"Tanzania, United Republic of",TZA,2005,01/01/2005,56,Female,Africa,Sub-Saharan Africa
+TZA2005Mal,"Tanzania, United Republic of",TZA,2005,01/01/2005,62,Male,Africa,Sub-Saharan Africa
+TZA2005Tot,"Tanzania, United Republic of",TZA,2005,01/01/2005,59,Total,Africa,Sub-Saharan Africa
+DZA2006Fem,Algeria,DZA,2006,01/01/2006,51,Female,Africa,Northern Africa
+DZA2006Mal,Algeria,DZA,2006,01/01/2006,54,Male,Africa,Northern Africa
+DZA2006Tot,Algeria,DZA,2006,01/01/2006,53,Total,Africa,Northern Africa
+AZE2006Fem,Azerbaijan,AZE,2006,01/01/2006,24.4,Female,Asia,Western Asia
+AZE2006Mal,Azerbaijan,AZE,2006,01/01/2006,36.2,Male,Asia,Western Asia
+AZE2006Tot,Azerbaijan,AZE,2006,01/01/2006,32.5,Total,Asia,Western Asia
+BGD2006Fem,Bangladesh,BGD,2006,01/01/2006,30,Female,Asia,Southern Asia
+BGD2006Mal,Bangladesh,BGD,2006,01/01/2006,30,Male,Asia,Southern Asia
+BGD2006Tot,Bangladesh,BGD,2006,01/01/2006,30,Total,Asia,Southern Asia
+BLZ2006Fem,Belize,BLZ,2006,01/01/2006,72,Female,Americas,Latin America and the Caribbean
+BLZ2006Mal,Belize,BLZ,2006,01/01/2006,70,Male,Americas,Latin America and the Caribbean
+BLZ2006Tot,Belize,BLZ,2006,01/01/2006,71,Total,Americas,Latin America and the Caribbean
+BEN2006Fem,Benin,BEN,2006,01/01/2006,38,Female,Africa,Sub-Saharan Africa
+BEN2006Mal,Benin,BEN,2006,01/01/2006,34,Male,Africa,Sub-Saharan Africa
+BEN2006Tot,Benin,BEN,2006,01/01/2006,36,Total,Africa,Sub-Saharan Africa
+BOL2006Tot,"Bolivia, Plurinational State of",BOL,2006,01/01/2006,48.2,Total,Americas,Latin America and the Caribbean
+BIH2006Fem,Bosnia and Herzegovina,BIH,2006,01/01/2006,90.7,Female,Europe,Southern Europe
+BIH2006Mal,Bosnia and Herzegovina,BIH,2006,01/01/2006,91.6,Male,Europe,Southern Europe
+BIH2006Tot,Bosnia and Herzegovina,BIH,2006,01/01/2006,91.3,Total,Europe,Southern Europe
+BRA2006Fem,Brazil,BRA,2006,01/01/2006,53.3,Female,Americas,Latin America and the Caribbean
+BRA2006Mal,Brazil,BRA,2006,01/01/2006,46.2,Male,Americas,Latin America and the Caribbean
+BRA2006Tot,Brazil,BRA,2006,01/01/2006,49.7,Total,Americas,Latin America and the Caribbean
+BFA2006Fem,Burkina Faso,BFA,2006,01/01/2006,34,Female,Africa,Sub-Saharan Africa
+BFA2006Mal,Burkina Faso,BFA,2006,01/01/2006,42,Male,Africa,Sub-Saharan Africa
+BFA2006Tot,Burkina Faso,BFA,2006,01/01/2006,39,Total,Africa,Sub-Saharan Africa
+KHM2006Fem,Cambodia,KHM,2006,01/01/2006,49,Female,Asia,South-eastern Asia
+KHM2006Mal,Cambodia,KHM,2006,01/01/2006,48,Male,Asia,South-eastern Asia
+KHM2006Tot,Cambodia,KHM,2006,01/01/2006,48,Total,Asia,South-eastern Asia
+CMR2006Fem,Cameroon,CMR,2006,01/01/2006,32,Female,Africa,Sub-Saharan Africa
+CMR2006Mal,Cameroon,CMR,2006,01/01/2006,37,Male,Africa,Sub-Saharan Africa
+CMR2006Tot,Cameroon,CMR,2006,01/01/2006,35,Total,Africa,Sub-Saharan Africa
+CAF2006Fem,Central African Republic,CAF,2006,01/01/2006,34,Female,Africa,Sub-Saharan Africa
+CAF2006Mal,Central African Republic,CAF,2006,01/01/2006,29.9,Male,Africa,Sub-Saharan Africa
+CAF2006Tot,Central African Republic,CAF,2006,01/01/2006,31.8,Total,Africa,Sub-Saharan Africa
+CIV2006Fem,Ivory Coast,CIV,2006,01/01/2006,41,Female,Africa,Sub-Saharan Africa
+CIV2006Mal,Ivory Coast,CIV,2006,01/01/2006,30,Male,Africa,Sub-Saharan Africa
+CIV2006Tot,Ivory Coast,CIV,2006,01/01/2006,35,Total,Africa,Sub-Saharan Africa
+DJI2006Fem,Djibouti,DJI,2006,01/01/2006,63,Female,Africa,Sub-Saharan Africa
+DJI2006Mal,Djibouti,DJI,2006,01/01/2006,61,Male,Africa,Sub-Saharan Africa
+DJI2006Tot,Djibouti,DJI,2006,01/01/2006,62,Total,Africa,Sub-Saharan Africa
+GMB2006Fem,Gambia,GMB,2006,01/01/2006,71,Female,Africa,Sub-Saharan Africa
+GMB2006Mal,Gambia,GMB,2006,01/01/2006,67,Male,Africa,Sub-Saharan Africa
+GMB2006Tot,Gambia,GMB,2006,01/01/2006,69,Total,Africa,Sub-Saharan Africa
+GHA2006Fem,Ghana,GHA,2006,01/01/2006,33,Female,Africa,Sub-Saharan Africa
+GHA2006Mal,Ghana,GHA,2006,01/01/2006,34,Male,Africa,Sub-Saharan Africa
+GHA2006Tot,Ghana,GHA,2006,01/01/2006,34,Total,Africa,Sub-Saharan Africa
+GNB2006Fem,Guinea-Bissau,GNB,2006,01/01/2006,61,Female,Africa,Sub-Saharan Africa
+GNB2006Mal,Guinea-Bissau,GNB,2006,01/01/2006,52,Male,Africa,Sub-Saharan Africa
+GNB2006Tot,Guinea-Bissau,GNB,2006,01/01/2006,57,Total,Africa,Sub-Saharan Africa
+HTI2006Tot,Haiti,HTI,2006,01/01/2006,31,Total,Americas,Latin America and the Caribbean
+HND2006Fem,Honduras,HND,2006,01/01/2006,54,Female,Americas,Latin America and the Caribbean
+HND2006Mal,Honduras,HND,2006,01/01/2006,58,Male,Americas,Latin America and the Caribbean
+HND2006Tot,Honduras,HND,2006,01/01/2006,56,Total,Americas,Latin America and the Caribbean
+IND2006Fem,India,IND,2006,01/01/2006,65.8,Female,Asia,Southern Asia
+IND2006Mal,India,IND,2006,01/01/2006,71.7,Male,Asia,Southern Asia
+IND2006Tot,India,IND,2006,01/01/2006,69,Total,Asia,Southern Asia
+IRQ2006Fem,Iraq,IRQ,2006,01/01/2006,84,Female,Asia,Western Asia
+IRQ2006Mal,Iraq,IRQ,2006,01/01/2006,81,Male,Asia,Western Asia
+IRQ2006Tot,Iraq,IRQ,2006,01/01/2006,82,Total,Asia,Western Asia
+KAZ2006Tot,Kazakhstan,KAZ,2006,01/01/2006,71,Total,Asia,Central Asia
+KGZ2006Fem,Kyrgyzstan,KGZ,2006,01/01/2006,61,Female,Asia,Central Asia
+KGZ2006Mal,Kyrgyzstan,KGZ,2006,01/01/2006,63,Male,Asia,Central Asia
+KGZ2006Tot,Kyrgyzstan,KGZ,2006,01/01/2006,62,Total,Asia,Central Asia
+LAO2006Fem,Lao People's Democratic Republic,LAO,2006,01/01/2006,28,Female,Asia,South-eastern Asia
+LAO2006Mal,Lao People's Democratic Republic,LAO,2006,01/01/2006,36,Male,Asia,South-eastern Asia
+LAO2006Tot,Lao People's Democratic Republic,LAO,2006,01/01/2006,32,Total,Asia,South-eastern Asia
+MWI2006Fem,Malawi,MWI,2006,01/01/2006,53,Female,Africa,Sub-Saharan Africa
+MWI2006Mal,Malawi,MWI,2006,01/01/2006,51,Male,Africa,Sub-Saharan Africa
+MWI2006Tot,Malawi,MWI,2006,01/01/2006,52,Total,Africa,Sub-Saharan Africa
+MLI2006Fem,Mali,MLI,2006,01/01/2006,37,Female,Africa,Sub-Saharan Africa
+MLI2006Mal,Mali,MLI,2006,01/01/2006,39,Male,Africa,Sub-Saharan Africa
+MLI2006Tot,Mali,MLI,2006,01/01/2006,38,Total,Africa,Sub-Saharan Africa
+MNE2006Tot,Montenegro,MNE,2006,01/01/2006,89.4,Total,Europe,Southern Europe
+NPL2006Fem,Nepal,NPL,2006,01/01/2006,44,Female,Asia,Southern Asia
+NPL2006Mal,Nepal,NPL,2006,01/01/2006,42,Male,Asia,Southern Asia
+NPL2006Tot,Nepal,NPL,2006,01/01/2006,43,Total,Asia,Southern Asia
+NER2006Fem,Niger,NER,2006,01/01/2006,45,Female,Africa,Sub-Saharan Africa
+NER2006Mal,Niger,NER,2006,01/01/2006,49,Male,Africa,Sub-Saharan Africa
+NER2006Tot,Niger,NER,2006,01/01/2006,47,Total,Africa,Sub-Saharan Africa
+MKD2006Fem,"Macedonia, the former Yugoslav Republic of",MKD,2006,01/01/2006,89,Female,Europe,Southern Europe
+MKD2006Mal,"Macedonia, the former Yugoslav Republic of",MKD,2006,01/01/2006,95,Male,Europe,Southern Europe
+MKD2006Tot,"Macedonia, the former Yugoslav Republic of",MKD,2006,01/01/2006,93,Total,Europe,Southern Europe
+PNG2006Fem,Papua New Guinea,PNG,2006,01/01/2006,57,Female,Oceania,Melanesia
+PNG2006Mal,Papua New Guinea,PNG,2006,01/01/2006,66,Male,Oceania,Melanesia
+PNG2006Tot,Papua New Guinea,PNG,2006,01/01/2006,63,Total,Oceania,Melanesia
+PER2006Fem,Peru,PER,2006,01/01/2006,69,Female,Americas,Latin America and the Caribbean
+PER2006Mal,Peru,PER,2006,01/01/2006,65,Male,Americas,Latin America and the Caribbean
+PER2006Tot,Peru,PER,2006,01/01/2006,67,Total,Americas,Latin America and the Caribbean
+SRB2006Fem,Serbia,SRB,2006,01/01/2006,91,Female,Europe,Southern Europe
+SRB2006Mal,Serbia,SRB,2006,01/01/2006,94,Male,Europe,Southern Europe
+SRB2006Tot,Serbia,SRB,2006,01/01/2006,93,Total,Europe,Southern Europe
+CIV2012Fem,Ivory Coast,CIV,2012,01/01/2012,40.9,Female,Africa,Sub-Saharan Africa
+CIV2012Mal,Ivory Coast,CIV,2012,01/01/2012,35,Male,Africa,Sub-Saharan Africa
+CIV2012Tot,Ivory Coast,CIV,2012,01/01/2012,38.2,Total,Africa,Sub-Saharan Africa
+SUR2006Fem,Suriname,SUR,2006,01/01/2006,69,Female,Americas,Latin America and the Caribbean
+SUR2006Mal,Suriname,SUR,2006,01/01/2006,76,Male,Americas,Latin America and the Caribbean
+SUR2006Tot,Suriname,SUR,2006,01/01/2006,74,Total,Americas,Latin America and the Caribbean
+SYR2006Fem,Syrian Arab Republic,SYR,2006,01/01/2006,73,Female,Asia,Western Asia
+SYR2006Mal,Syrian Arab Republic,SYR,2006,01/01/2006,80,Male,Asia,Western Asia
+SYR2006Tot,Syrian Arab Republic,SYR,2006,01/01/2006,77,Total,Asia,Western Asia
+THA2006Fem,Thailand,THA,2006,01/01/2006,85,Female,Asia,South-eastern Asia
+THA2006Mal,Thailand,THA,2006,01/01/2006,83,Male,Asia,South-eastern Asia
+THA2006Tot,Thailand,THA,2006,01/01/2006,84,Total,Asia,South-eastern Asia
+TGO2006Fem,Togo,TGO,2006,01/01/2006,23,Female,Africa,Sub-Saharan Africa
+TGO2006Mal,Togo,TGO,2006,01/01/2006,23,Male,Africa,Sub-Saharan Africa
+TGO2006Tot,Togo,TGO,2006,01/01/2006,23,Total,Africa,Sub-Saharan Africa
+TTO2006Fem,Trinidad and Tobago,TTO,2006,01/01/2006,70,Female,Americas,Latin America and the Caribbean
+TTO2006Mal,Trinidad and Tobago,TTO,2006,01/01/2006,77,Male,Americas,Latin America and the Caribbean
+TTO2006Tot,Trinidad and Tobago,TTO,2006,01/01/2006,74,Total,Americas,Latin America and the Caribbean
+TUN2006Fem,Tunisia,TUN,2006,01/01/2006,57,Female,Africa,Northern Africa
+TUN2006Mal,Tunisia,TUN,2006,01/01/2006,60,Male,Africa,Northern Africa
+TUN2006Tot,Tunisia,TUN,2006,01/01/2006,59,Total,Africa,Northern Africa
+UGA2006Fem,Uganda,UGA,2006,01/01/2006,71,Female,Africa,Sub-Saharan Africa
+UGA2006Mal,Uganda,UGA,2006,01/01/2006,76,Male,Africa,Sub-Saharan Africa
+UGA2006Tot,Uganda,UGA,2006,01/01/2006,73,Total,Africa,Sub-Saharan Africa
+UZB2006Fem,Uzbekistan,UZB,2006,01/01/2006,63.2,Female,Asia,Central Asia
+UZB2006Mal,Uzbekistan,UZB,2006,01/01/2006,70.5,Male,Asia,Central Asia
+UZB2006Tot,Uzbekistan,UZB,2006,01/01/2006,67.7,Total,Asia,Central Asia
+VNM2006Fem,Viet Nam,VNM,2006,01/01/2006,80,Female,Asia,South-eastern Asia
+VNM2006Mal,Viet Nam,VNM,2006,01/01/2006,85,Male,Asia,South-eastern Asia
+VNM2006Tot,Viet Nam,VNM,2006,01/01/2006,83,Total,Asia,South-eastern Asia
+YEM2006Fem,Yemen,YEM,2006,01/01/2006,42.2,Female,Asia,Western Asia
+YEM2006Mal,Yemen,YEM,2006,01/01/2006,45,Male,Asia,Western Asia
+YEM2006Tot,Yemen,YEM,2006,01/01/2006,43.7,Total,Asia,Western Asia
+ZWE2006Fem,Zimbabwe,ZWE,2006,01/01/2006,31,Female,Africa,Sub-Saharan Africa
+ZWE2006Mal,Zimbabwe,ZWE,2006,01/01/2006,20,Male,Africa,Sub-Saharan Africa
+ZWE2006Tot,Zimbabwe,ZWE,2006,01/01/2006,25,Total,Africa,Sub-Saharan Africa
+BGD2007Fem,Bangladesh,BGD,2007,01/01/2007,33,Female,Asia,Southern Asia
+BGD2007Mal,Bangladesh,BGD,2007,01/01/2007,41,Male,Asia,Southern Asia
+BGD2007Tot,Bangladesh,BGD,2007,01/01/2007,37,Total,Asia,Southern Asia
+COD2007Fem,"Congo, the Democratic Republic of the",COD,2007,01/01/2007,39,Female,Africa,Sub-Saharan Africa
+COD2007Mal,"Congo, the Democratic Republic of the",COD,2007,01/01/2007,45,Male,Africa,Sub-Saharan Africa
+COD2007Tot,"Congo, the Democratic Republic of the",COD,2007,01/01/2007,42,Total,Africa,Sub-Saharan Africa
+DOM2007Fem,Dominican Republic,DOM,2007,01/01/2007,67,Female,Americas,Latin America and the Caribbean
+DOM2007Mal,Dominican Republic,DOM,2007,01/01/2007,72,Male,Americas,Latin America and the Caribbean
+DOM2007Tot,Dominican Republic,DOM,2007,01/01/2007,70,Total,Americas,Latin America and the Caribbean
+SWZ2007Fem,Swaziland,SWZ,2007,01/01/2007,76.9,Female,Africa,Sub-Saharan Africa
+SWZ2007Mal,Swaziland,SWZ,2007,01/01/2007,70.6,Male,Africa,Sub-Saharan Africa
+SWZ2007Tot,Swaziland,SWZ,2007,01/01/2007,73.4,Total,Africa,Sub-Saharan Africa
+GUY2007Fem,Guyana,GUY,2007,01/01/2007,68,Female,Americas,Latin America and the Caribbean
+GUY2007Mal,Guyana,GUY,2007,01/01/2007,62,Male,Americas,Latin America and the Caribbean
+GUY2007Tot,Guyana,GUY,2007,01/01/2007,64,Total,Americas,Latin America and the Caribbean
+IDN2007Fem,Indonesia,IDN,2007,01/01/2007,63,Female,Asia,South-eastern Asia
+IDN2007Mal,Indonesia,IDN,2007,01/01/2007,72,Male,Asia,South-eastern Asia
+IDN2007Tot,Indonesia,IDN,2007,01/01/2007,66,Total,Asia,South-eastern Asia
+JOR2007Fem,Jordan,JOR,2007,01/01/2007,70.1,Female,Asia,Western Asia
+JOR2007Mal,Jordan,JOR,2007,01/01/2007,78.5,Male,Asia,Western Asia
+JOR2007Tot,Jordan,JOR,2007,01/01/2007,75,Total,Asia,Western Asia
+LBR2007Fem,Liberia,LBR,2007,01/01/2007,61,Female,Africa,Sub-Saharan Africa
+LBR2007Mal,Liberia,LBR,2007,01/01/2007,64,Male,Africa,Sub-Saharan Africa
+LBR2007Tot,Liberia,LBR,2007,01/01/2007,62,Total,Africa,Sub-Saharan Africa
+MRT2007Fem,Mauritania,MRT,2007,01/01/2007,47,Female,Africa,Sub-Saharan Africa
+MRT2007Mal,Mauritania,MRT,2007,01/01/2007,43,Male,Africa,Sub-Saharan Africa
+MRT2007Tot,Mauritania,MRT,2007,01/01/2007,45,Total,Africa,Sub-Saharan Africa
+NAM2007Fem,Namibia,NAM,2007,01/01/2007,81.2,Female,Africa,Sub-Saharan Africa
+NAM2007Mal,Namibia,NAM,2007,01/01/2007,64.2,Male,Africa,Sub-Saharan Africa
+NAM2007Tot,Namibia,NAM,2007,01/01/2007,71.5,Total,Africa,Sub-Saharan Africa
+NRU2007Tot,Nauru,NRU,2007,01/01/2007,69,Total,Oceania,Micronesia
+PAK2007Fem,Pakistan,PAK,2007,01/01/2007,68,Female,Asia,Southern Asia
+PAK2007Mal,Pakistan,PAK,2007,01/01/2007,70,Male,Asia,Southern Asia
+PAK2007Tot,Pakistan,PAK,2007,01/01/2007,69,Total,Asia,Southern Asia
+SLB2007Tot,Solomon Islands,SLB,2007,01/01/2007,73,Total,Oceania,Melanesia
+LKA2007Fem,Sri Lanka,LKA,2007,01/01/2007,55.7,Female,Asia,Southern Asia
+LKA2007Mal,Sri Lanka,LKA,2007,01/01/2007,60.1,Male,Asia,Southern Asia
+LKA2007Tot,Sri Lanka,LKA,2007,01/01/2007,58.2,Total,Asia,Southern Asia
+ZMB2007Fem,Zambia,ZMB,2007,01/01/2007,69,Female,Africa,Sub-Saharan Africa
+ZMB2007Mal,Zambia,ZMB,2007,01/01/2007,68,Male,Africa,Sub-Saharan Africa
+ZMB2007Tot,Zambia,ZMB,2007,01/01/2007,68,Total,Africa,Sub-Saharan Africa
+BOL2008Fem,"Bolivia, Plurinational State of",BOL,2008,01/01/2008,51.7,Female,Americas,Latin America and the Caribbean
+BOL2008Mal,"Bolivia, Plurinational State of",BOL,2008,01/01/2008,50.1,Male,Americas,Latin America and the Caribbean
+BOL2008Tot,"Bolivia, Plurinational State of",BOL,2008,01/01/2008,59.8,Total,Americas,Latin America and the Caribbean
+EGY2008Fem,Egypt,EGY,2008,01/01/2008,68,Female,Africa,Northern Africa
+EGY2008Mal,Egypt,EGY,2008,01/01/2008,77,Male,Africa,Northern Africa
+EGY2008Tot,Egypt,EGY,2008,01/01/2008,73,Total,Africa,Northern Africa
+SLV2008Tot,El Salvador,SLV,2008,01/01/2008,67,Total,Americas,Latin America and the Caribbean
+GHA2008Fem,Ghana,GHA,2008,01/01/2008,52,Female,Africa,Sub-Saharan Africa
+GHA2008Mal,Ghana,GHA,2008,01/01/2008,50,Male,Africa,Sub-Saharan Africa
+GHA2008Tot,Ghana,GHA,2008,01/01/2008,51,Total,Africa,Sub-Saharan Africa
+MOZ2008Fem,Mozambique,MOZ,2008,01/01/2008,64,Female,Africa,Sub-Saharan Africa
+MOZ2008Mal,Mozambique,MOZ,2008,01/01/2008,66,Male,Africa,Sub-Saharan Africa
+MOZ2008Tot,Mozambique,MOZ,2008,01/01/2008,65,Total,Africa,Sub-Saharan Africa
+NGA2008Fem,Nigeria,NGA,2008,01/01/2008,47.3,Female,Africa,Sub-Saharan Africa
+NGA2008Mal,Nigeria,NGA,2008,01/01/2008,43.5,Male,Africa,Sub-Saharan Africa
+NGA2008Tot,Nigeria,NGA,2008,01/01/2008,45.4,Total,Africa,Sub-Saharan Africa
+PHL2008Fem,Philippines,PHL,2008,01/01/2008,55,Female,Asia,South-eastern Asia
+PHL2008Mal,Philippines,PHL,2008,01/01/2008,47,Male,Asia,South-eastern Asia
+PHL2008Tot,Philippines,PHL,2008,01/01/2008,50,Total,Asia,South-eastern Asia
+RWA2008Fem,Rwanda,RWA,2008,01/01/2008,25,Female,Africa,Sub-Saharan Africa
+RWA2008Mal,Rwanda,RWA,2008,01/01/2008,31,Male,Africa,Sub-Saharan Africa
+RWA2008Tot,Rwanda,RWA,2008,01/01/2008,28,Total,Africa,Sub-Saharan Africa
+SLE2008Fem,Sierra Leone,SLE,2008,01/01/2008,43,Female,Africa,Sub-Saharan Africa
+SLE2008Mal,Sierra Leone,SLE,2008,01/01/2008,49,Male,Africa,Sub-Saharan Africa
+SLE2008Tot,Sierra Leone,SLE,2008,01/01/2008,46,Total,Africa,Sub-Saharan Africa
+ALB2009Tot,Albania,ALB,2009,01/01/2009,69.6,Total,Europe,Southern Europe
+BOL2009Tot,"Bolivia, Plurinational State of",BOL,2009,01/01/2009,66.3,Total,Americas,Latin America and the Caribbean
+CIV2016Fem,Ivory Coast,CIV,2016,01/01/2016,39.4,Female,Africa,Sub-Saharan Africa
+CIV2016Mal,Ivory Coast,CIV,2016,01/01/2016,47.3,Male,Africa,Sub-Saharan Africa
+CIV2016Tot,Ivory Coast,CIV,2016,01/01/2016,44,Total,Africa,Sub-Saharan Africa
+GUY2009Tot,Guyana,GUY,2009,01/01/2009,65,Total,Americas,Latin America and the Caribbean
+KEN2009Fem,Kenya,KEN,2009,01/01/2009,54.3,Female,Africa,Sub-Saharan Africa
+KEN2009Mal,Kenya,KEN,2009,01/01/2009,57.4,Male,Africa,Sub-Saharan Africa
+KEN2009Tot,Kenya,KEN,2009,01/01/2009,55.9,Total,Africa,Sub-Saharan Africa
+KIR2009Tot,Kiribati,KIR,2009,01/01/2009,81.1,Total,Oceania,Micronesia
+LSO2009Fem,Lesotho,LSO,2009,01/01/2009,61.7,Female,Africa,Sub-Saharan Africa
+LSO2009Mal,Lesotho,LSO,2009,01/01/2009,70.3,Male,Africa,Sub-Saharan Africa
+LSO2009Tot,Lesotho,LSO,2009,01/01/2009,65.5,Total,Africa,Sub-Saharan Africa
+MDG2009Fem,Madagascar,MDG,2009,01/01/2009,39.8,Female,Africa,Sub-Saharan Africa
+MDG2009Mal,Madagascar,MDG,2009,01/01/2009,43.9,Male,Africa,Sub-Saharan Africa
+MDG2009Tot,Madagascar,MDG,2009,01/01/2009,42,Total,Africa,Sub-Saharan Africa
+MDV2009Tot,Maldives,MDV,2009,01/01/2009,74.1,Total,Asia,Southern Asia
+PER2009Fem,Peru,PER,2009,01/01/2009,72,Female,Americas,Latin America and the Caribbean
+PER2009Mal,Peru,PER,2009,01/01/2009,72,Male,Americas,Latin America and the Caribbean
+PER2009Tot,Peru,PER,2009,01/01/2009,72,Total,Americas,Latin America and the Caribbean
+WSM2009Fem,Samoa,WSM,2009,01/01/2009,64.4,Female,Oceania,Polynesia
+WSM2009Mal,Samoa,WSM,2009,01/01/2009,63.2,Male,Oceania,Polynesia
+WSM2009Tot,Samoa,WSM,2009,01/01/2009,63.8,Total,Oceania,Polynesia
+STP2009Fem,Sao Tome and Principe,STP,2009,01/01/2009,79.8,Female,Africa,Sub-Saharan Africa
+STP2009Mal,Sao Tome and Principe,STP,2009,01/01/2009,70.3,Male,Africa,Sub-Saharan Africa
+STP2009Tot,Sao Tome and Principe,STP,2009,01/01/2009,74.7,Total,Africa,Sub-Saharan Africa
+ZWE2009Fem,Zimbabwe,ZWE,2009,01/01/2009,43.8,Female,Africa,Sub-Saharan Africa
+ZWE2009Mal,Zimbabwe,ZWE,2009,01/01/2009,41.3,Male,Africa,Sub-Saharan Africa
+ZWE2009Tot,Zimbabwe,ZWE,2009,01/01/2009,42.6,Total,Africa,Sub-Saharan Africa
+ARM2010Tot,Armenia,ARM,2010,01/01/2010,57,Total,Asia,Western Asia
+BTN2010Fem,Bhutan,BTN,2010,01/01/2010,71.5,Female,Asia,Southern Asia
+BTN2010Mal,Bhutan,BTN,2010,01/01/2010,76.1,Male,Asia,Southern Asia
+BTN2010Tot,Bhutan,BTN,2010,01/01/2010,74.2,Total,Asia,Southern Asia
+BFA2010Fem,Burkina Faso,BFA,2010,01/01/2010,61.6,Female,Africa,Sub-Saharan Africa
+BFA2010Mal,Burkina Faso,BFA,2010,01/01/2010,51.7,Male,Africa,Sub-Saharan Africa
+BFA2010Tot,Burkina Faso,BFA,2010,01/01/2010,56,Total,Africa,Sub-Saharan Africa
+BDI2010Fem,Burundi,BDI,2010,01/01/2010,53.6,Female,Africa,Sub-Saharan Africa
+BDI2010Mal,Burundi,BDI,2010,01/01/2010,55.9,Male,Africa,Sub-Saharan Africa
+BDI2010Tot,Burundi,BDI,2010,01/01/2010,54.7,Total,Africa,Sub-Saharan Africa
+CAF2010Fem,Central African Republic,CAF,2010,01/01/2010,31.8,Female,Africa,Sub-Saharan Africa
+CAF2010Mal,Central African Republic,CAF,2010,01/01/2010,27.9,Male,Africa,Sub-Saharan Africa
+CAF2010Tot,Central African Republic,CAF,2010,01/01/2010,29.8,Total,Africa,Sub-Saharan Africa
+TCD2010Fem,Chad,TCD,2010,01/01/2010,27.4,Female,Africa,Sub-Saharan Africa
+TCD2010Mal,Chad,TCD,2010,01/01/2010,25,Male,Africa,Sub-Saharan Africa
+TCD2010Tot,Chad,TCD,2010,01/01/2010,26.1,Total,Africa,Sub-Saharan Africa
+COL2010Fem,Colombia,COL,2010,01/01/2010,63.1,Female,Americas,Latin America and the Caribbean
+COL2010Mal,Colombia,COL,2010,01/01/2010,65,Male,Americas,Latin America and the Caribbean
+COL2010Tot,Colombia,COL,2010,01/01/2010,64.2,Total,Americas,Latin America and the Caribbean
+COD2010Fem,"Congo, the Democratic Republic of the",COD,2010,01/01/2010,44.6,Female,Africa,Sub-Saharan Africa
+COD2010Mal,"Congo, the Democratic Republic of the",COD,2010,01/01/2010,36.9,Male,Africa,Sub-Saharan Africa
+COD2010Tot,"Congo, the Democratic Republic of the",COD,2010,01/01/2010,40.3,Total,Africa,Sub-Saharan Africa
+DOM2010Fem,Dominican Republic,DOM,2010,01/01/2010,69,Female,Americas,Latin America and the Caribbean
+DOM2010Mal,Dominican Republic,DOM,2010,01/01/2010,68,Male,Americas,Latin America and the Caribbean
+DOM2010Tot,Dominican Republic,DOM,2010,01/01/2010,68.4,Total,Americas,Latin America and the Caribbean
+ERI2010Fem,Eritrea,ERI,2010,01/01/2010,43.3,Female,Africa,Sub-Saharan Africa
+ERI2010Mal,Eritrea,ERI,2010,01/01/2010,46.4,Male,Africa,Sub-Saharan Africa
+ERI2010Tot,Eritrea,ERI,2010,01/01/2010,44.8,Total,Africa,Sub-Saharan Africa
+SWZ2010Fem,Swaziland,SWZ,2010,01/01/2010,58,Female,Africa,Sub-Saharan Africa
+SWZ2010Mal,Swaziland,SWZ,2010,01/01/2010,57.2,Male,Africa,Sub-Saharan Africa
+SWZ2010Tot,Swaziland,SWZ,2010,01/01/2010,57.6,Total,Africa,Sub-Saharan Africa
+GMB2010Fem,Gambia,GMB,2010,01/01/2010,67.7,Female,Africa,Sub-Saharan Africa
+GMB2010Mal,Gambia,GMB,2010,01/01/2010,69.8,Male,Africa,Sub-Saharan Africa
+GMB2010Tot,Gambia,GMB,2010,01/01/2010,68.8,Total,Africa,Sub-Saharan Africa
+GNB2010Fem,Guinea-Bissau,GNB,2010,01/01/2010,51.7,Female,Africa,Sub-Saharan Africa
+GNB2010Mal,Guinea-Bissau,GNB,2010,01/01/2010,52.6,Male,Africa,Sub-Saharan Africa
+GNB2010Tot,Guinea-Bissau,GNB,2010,01/01/2010,52.1,Total,Africa,Sub-Saharan Africa
+IRN2010Fem,"Iran, Islamic Republic of",IRN,2010,01/01/2010,75.8,Female,Asia,Southern Asia
+IRN2010Mal,"Iran, Islamic Republic of",IRN,2010,01/01/2010,76,Male,Asia,Southern Asia
+IRN2010Tot,"Iran, Islamic Republic of",IRN,2010,01/01/2010,75.9,Total,Asia,Southern Asia
+MWI2010Fem,Malawi,MWI,2010,01/01/2010,69.4,Female,Africa,Sub-Saharan Africa
+MWI2010Mal,Malawi,MWI,2010,01/01/2010,71.2,Male,Africa,Sub-Saharan Africa
+MWI2010Tot,Malawi,MWI,2010,01/01/2010,70.3,Total,Africa,Sub-Saharan Africa
+MLI2010Fem,Mali,MLI,2010,01/01/2010,36.7,Female,Africa,Sub-Saharan Africa
+MLI2010Mal,Mali,MLI,2010,01/01/2010,35.7,Male,Africa,Sub-Saharan Africa
+MLI2010Tot,Mali,MLI,2010,01/01/2010,36.2,Total,Africa,Sub-Saharan Africa
+MNG2010Tot,Mongolia,MNG,2010,01/01/2010,86.8,Total,Asia,Eastern Asia
+MMR2010Fem,Burma,MMR,2010,01/01/2010,68.6,Female,Asia,South-eastern Asia
+MMR2010Mal,Burma,MMR,2010,01/01/2010,69.9,Male,Asia,South-eastern Asia
+MMR2010Tot,Burma,MMR,2010,01/01/2010,69.3,Total,Asia,South-eastern Asia
+PER2010Fem,Peru,PER,2010,01/01/2010,68.1,Female,Americas,Latin America and the Caribbean
+PER2010Mal,Peru,PER,2010,01/01/2010,68.8,Male,Americas,Latin America and the Caribbean
+PER2010Tot,Peru,PER,2010,01/01/2010,68.4,Total,Americas,Latin America and the Caribbean
+SRB2010Fem,Serbia,SRB,2010,01/01/2010,91.4,Female,Europe,Southern Europe
+SRB2010Mal,Serbia,SRB,2010,01/01/2010,88.7,Male,Europe,Southern Europe
+SRB2010Tot,Serbia,SRB,2010,01/01/2010,89.7,Total,Europe,Southern Europe
+SLE2010Fem,Sierra Leone,SLE,2010,01/01/2010,75.4,Female,Africa,Sub-Saharan Africa
+SLE2010Mal,Sierra Leone,SLE,2010,01/01/2010,72.2,Male,Africa,Sub-Saharan Africa
+SLE2010Tot,Sierra Leone,SLE,2010,01/01/2010,73.7,Total,Africa,Sub-Saharan Africa
+SSD2010Fem,South Sudan,SSD,2010,01/01/2010,47.2,Female,Africa,Sub-Saharan Africa
+SSD2010Mal,South Sudan,SSD,2010,01/01/2010,48,Male,Africa,Sub-Saharan Africa
+SSD2010Tot,South Sudan,SSD,2010,01/01/2010,47.6,Total,Africa,Sub-Saharan Africa
+PSE2010Fem,"Palestinian Territory, Occupied",PSE,2010,01/01/2010,62.4,Female,Asia,Western Asia
+PSE2010Mal,"Palestinian Territory, Occupied",PSE,2010,01/01/2010,66.5,Male,Asia,Western Asia
+PSE2010Tot,"Palestinian Territory, Occupied",PSE,2010,01/01/2010,64.8,Total,Asia,Western Asia
+SDN2010Fem,Sudan,SDN,2010,01/01/2010,54.9,Female,Africa,Northern Africa
+SDN2010Mal,Sudan,SDN,2010,01/01/2010,56.6,Male,Africa,Northern Africa
+SDN2010Tot,Sudan,SDN,2010,01/01/2010,55.8,Total,Africa,Northern Africa
+SUR2010Tot,Suriname,SUR,2010,01/01/2010,75.8,Total,Americas,Latin America and the Caribbean
+TLS2010Fem,Timor-Leste,TLS,2010,01/01/2010,73.1,Female,Asia,South-eastern Asia
+TLS2010Mal,Timor-Leste,TLS,2010,01/01/2010,68.6,Male,Asia,South-eastern Asia
+TLS2010Tot,Timor-Leste,TLS,2010,01/01/2010,70.9,Total,Asia,South-eastern Asia
+TGO2010Fem,Togo,TGO,2010,01/01/2010,29.9,Female,Africa,Sub-Saharan Africa
+TGO2010Mal,Togo,TGO,2010,01/01/2010,34.6,Male,Africa,Sub-Saharan Africa
+TGO2010Tot,Togo,TGO,2010,01/01/2010,32.1,Total,Africa,Sub-Saharan Africa
+TZA2010Fem,"Tanzania, United Republic of",TZA,2010,01/01/2010,67.7,Female,Africa,Sub-Saharan Africa
+TZA2010Mal,"Tanzania, United Republic of",TZA,2010,01/01/2010,73.3,Male,Africa,Sub-Saharan Africa
+TZA2010Tot,"Tanzania, United Republic of",TZA,2010,01/01/2010,70.6,Total,Africa,Sub-Saharan Africa
+AFG2011Fem,Afghanistan,AFG,2011,01/01/2011,59.1,Female,Asia,Southern Asia
+AFG2011Mal,Afghanistan,AFG,2011,01/01/2011,61.9,Male,Asia,Southern Asia
+AFG2011Tot,Afghanistan,AFG,2011,01/01/2011,60.5,Total,Asia,Southern Asia
+BGD2011Fem,Bangladesh,BGD,2011,01/01/2011,29.3,Female,Asia,Southern Asia
+BGD2011Mal,Bangladesh,BGD,2011,01/01/2011,39.5,Male,Asia,Southern Asia
+BGD2011Tot,Bangladesh,BGD,2011,01/01/2011,35.2,Total,Asia,Southern Asia
+BLZ2011Tot,Belize,BLZ,2011,01/01/2011,82.2,Total,Americas,Latin America and the Caribbean
+BOL2011Tot,"Bolivia, Plurinational State of",BOL,2011,01/01/2011,61.7,Total,Americas,Latin America and the Caribbean
+KHM2011Fem,Cambodia,KHM,2011,01/01/2011,66,Female,Asia,South-eastern Asia
+KHM2011Mal,Cambodia,KHM,2011,01/01/2011,62.7,Male,Asia,South-eastern Asia
+KHM2011Tot,Cambodia,KHM,2011,01/01/2011,64.2,Total,Asia,South-eastern Asia
+CMR2011Fem,Cameroon,CMR,2011,01/01/2011,28.3,Female,Africa,Sub-Saharan Africa
+CMR2011Mal,Cameroon,CMR,2011,01/01/2011,31.6,Male,Africa,Sub-Saharan Africa
+CMR2011Tot,Cameroon,CMR,2011,01/01/2011,29.9,Total,Africa,Sub-Saharan Africa
+CRI2011Fem,Costa Rica,CRI,2011,01/01/2011,83.6,Female,Americas,Latin America and the Caribbean
+CRI2011Mal,Costa Rica,CRI,2011,01/01/2011,71.7,Male,Americas,Latin America and the Caribbean
+CRI2011Tot,Costa Rica,CRI,2011,01/01/2011,77.2,Total,Americas,Latin America and the Caribbean
+CUB2011Fem,Cuba,CUB,2011,01/01/2011,98.3,Female,Americas,Latin America and the Caribbean
+CUB2011Mal,Cuba,CUB,2011,01/01/2011,95.3,Male,Americas,Latin America and the Caribbean
+CUB2011Tot,Cuba,CUB,2011,01/01/2011,96.5,Total,Americas,Latin America and the Caribbean
+GNQ2011Fem,Equatorial Guinea,GNQ,2011,01/01/2011,50,Female,Africa,Sub-Saharan Africa
+GNQ2011Mal,Equatorial Guinea,GNQ,2011,01/01/2011,57.4,Male,Africa,Sub-Saharan Africa
+GNQ2011Tot,Equatorial Guinea,GNQ,2011,01/01/2011,54.3,Total,Africa,Sub-Saharan Africa
+ETH2011Fem,Ethiopia,ETH,2011,01/01/2011,28.7,Female,Africa,Sub-Saharan Africa
+ETH2011Mal,Ethiopia,ETH,2011,01/01/2011,25.4,Male,Africa,Sub-Saharan Africa
+ETH2011Tot,Ethiopia,ETH,2011,01/01/2011,27,Total,Africa,Sub-Saharan Africa
+GHA2011Fem,Ghana,GHA,2011,01/01/2011,33.9,Female,Africa,Sub-Saharan Africa
+GHA2011Mal,Ghana,GHA,2011,01/01/2011,48.8,Male,Africa,Sub-Saharan Africa
+GHA2011Tot,Ghana,GHA,2011,01/01/2011,41.3,Total,Africa,Sub-Saharan Africa
+IRQ2011Fem,Iraq,IRQ,2011,01/01/2011,71.8,Female,Asia,Western Asia
+IRQ2011Mal,Iraq,IRQ,2011,01/01/2011,76.5,Male,Asia,Western Asia
+IRQ2011Tot,Iraq,IRQ,2011,01/01/2011,74.4,Total,Asia,Western Asia
+JAM2011Tot,Jamaica,JAM,2011,01/01/2011,82.3,Total,Americas,Latin America and the Caribbean
+KAZ2011Fem,Kazakhstan,KAZ,2011,01/01/2011,79.6,Female,Asia,Central Asia
+KAZ2011Mal,Kazakhstan,KAZ,2011,01/01/2011,82.5,Male,Asia,Central Asia
+KAZ2011Tot,Kazakhstan,KAZ,2011,01/01/2011,81.2,Total,Asia,Central Asia
+MRT2011Fem,Mauritania,MRT,2011,01/01/2011,45.1,Female,Africa,Sub-Saharan Africa
+MRT2011Mal,Mauritania,MRT,2011,01/01/2011,41.2,Male,Africa,Sub-Saharan Africa
+MRT2011Tot,Mauritania,MRT,2011,01/01/2011,43.1,Total,Africa,Sub-Saharan Africa
+MAR2011Tot,Morocco,MAR,2011,01/01/2011,70.1,Total,Africa,Northern Africa
+MOZ2011Fem,Mozambique,MOZ,2011,01/01/2011,49.7,Female,Africa,Sub-Saharan Africa
+MOZ2011Mal,Mozambique,MOZ,2011,01/01/2011,50.6,Male,Africa,Sub-Saharan Africa
+MOZ2011Tot,Mozambique,MOZ,2011,01/01/2011,50.2,Total,Africa,Sub-Saharan Africa
+NPL2011Tot,Nepal,NPL,2011,01/01/2011,50,Total,Asia,Southern Asia
+NGA2011Fem,Nigeria,NGA,2011,01/01/2011,40.8,Female,Africa,Sub-Saharan Africa
+NGA2011Mal,Nigeria,NGA,2011,01/01/2011,38.8,Male,Africa,Sub-Saharan Africa
+NGA2011Tot,Nigeria,NGA,2011,01/01/2011,39.7,Total,Africa,Sub-Saharan Africa
+PER2011Fem,Peru,PER,2011,01/01/2011,62,Female,Americas,Latin America and the Caribbean
+PER2011Mal,Peru,PER,2011,01/01/2011,61.2,Male,Americas,Latin America and the Caribbean
+PER2011Tot,Peru,PER,2011,01/01/2011,61.6,Total,Americas,Latin America and the Caribbean
+RWA2011Fem,Rwanda,RWA,2011,01/01/2011,50.5,Female,Africa,Sub-Saharan Africa
+RWA2011Mal,Rwanda,RWA,2011,01/01/2011,50.1,Male,Africa,Sub-Saharan Africa
+RWA2011Tot,Rwanda,RWA,2011,01/01/2011,50.2,Total,Africa,Sub-Saharan Africa
+SEN2011Fem,Senegal,SEN,2011,01/01/2011,47.8,Female,Africa,Sub-Saharan Africa
+SEN2011Mal,Senegal,SEN,2011,01/01/2011,51.5,Male,Africa,Sub-Saharan Africa
+SEN2011Tot,Senegal,SEN,2011,01/01/2011,49.9,Total,Africa,Sub-Saharan Africa
+UGA2011Fem,Uganda,UGA,2011,01/01/2011,82.8,Female,Africa,Sub-Saharan Africa
+UGA2011Mal,Uganda,UGA,2011,01/01/2011,74.9,Male,Africa,Sub-Saharan Africa
+UGA2011Tot,Uganda,UGA,2011,01/01/2011,78.7,Total,Africa,Sub-Saharan Africa
+VNM2011Fem,Viet Nam,VNM,2011,01/01/2011,76.9,Female,Asia,South-eastern Asia
+VNM2011Mal,Viet Nam,VNM,2011,01/01/2011,69.6,Male,Asia,South-eastern Asia
+VNM2011Tot,Viet Nam,VNM,2011,01/01/2011,73,Total,Asia,South-eastern Asia
+ZWE2011Fem,Zimbabwe,ZWE,2011,01/01/2011,55.2,Female,Africa,Sub-Saharan Africa
+ZWE2011Mal,Zimbabwe,ZWE,2011,01/01/2011,41,Male,Africa,Sub-Saharan Africa
+ZWE2011Tot,Zimbabwe,ZWE,2011,01/01/2011,48,Total,Africa,Sub-Saharan Africa
+ARG2012Fem,Argentina,ARG,2012,01/01/2012,93,Female,Americas,Latin America and the Caribbean
+ARG2012Mal,Argentina,ARG,2012,01/01/2012,95.2,Male,Americas,Latin America and the Caribbean
+ARG2012Tot,Argentina,ARG,2012,01/01/2012,94.3,Total,Americas,Latin America and the Caribbean
+BLR2012Fem,Belarus,BLR,2012,01/01/2012,94.7,Female,Europe,Eastern Europe
+BLR2012Mal,Belarus,BLR,2012,01/01/2012,92.4,Male,Europe,Eastern Europe
+BLR2012Tot,Belarus,BLR,2012,01/01/2012,93.4,Total,Europe,Eastern Europe
+BEN2012Fem,Benin,BEN,2012,01/01/2012,38.5,Female,Africa,Sub-Saharan Africa
+BEN2012Mal,Benin,BEN,2012,01/01/2012,24.3,Male,Africa,Sub-Saharan Africa
+BEN2012Tot,Benin,BEN,2012,01/01/2012,31,Total,Africa,Sub-Saharan Africa
+BOL2012Tot,"Bolivia, Plurinational State of",BOL,2012,01/01/2012,71.2,Total,Americas,Latin America and the Caribbean
+BIH2012Tot,Bosnia and Herzegovina,BIH,2012,01/01/2012,87,Total,Europe,Southern Europe
+BDI2012Fem,Burundi,BDI,2012,01/01/2012,49.7,Female,Africa,Sub-Saharan Africa
+BDI2012Mal,Burundi,BDI,2012,01/01/2012,58.8,Male,Africa,Sub-Saharan Africa
+BDI2012Tot,Burundi,BDI,2012,01/01/2012,54.1,Total,Africa,Sub-Saharan Africa
+COM2012Fem,Comoros,COM,2012,01/01/2012,32.4,Female,Africa,Sub-Saharan Africa
+COM2012Mal,Comoros,COM,2012,01/01/2012,43.3,Male,Africa,Sub-Saharan Africa
+COM2012Tot,Comoros,COM,2012,01/01/2012,38.1,Total,Africa,Sub-Saharan Africa
+COG2012Fem,Congo,COG,2012,01/01/2012,56.6,Female,Africa,Sub-Saharan Africa
+COG2012Mal,Congo,COG,2012,01/01/2012,46.7,Male,Africa,Sub-Saharan Africa
+COG2012Tot,Congo,COG,2012,01/01/2012,52.1,Total,Africa,Sub-Saharan Africa
+CIV2021Fem,Ivory Coast,CIV,2021,01/01/2021,65.2,Female,Africa,Sub-Saharan Africa
+CIV2021Mal,Ivory Coast,CIV,2021,01/01/2021,68.8,Male,Africa,Sub-Saharan Africa
+CIV2021Tot,Ivory Coast,CIV,2021,01/01/2021,66.9,Total,Africa,Sub-Saharan Africa
+DJI2012Tot,Djibouti,DJI,2012,01/01/2012,94.4,Total,Africa,Sub-Saharan Africa
+GAB2012Fem,Gabon,GAB,2012,01/01/2012,62.4,Female,Africa,Sub-Saharan Africa
+GAB2012Mal,Gabon,GAB,2012,01/01/2012,72.2,Male,Africa,Sub-Saharan Africa
+GAB2012Tot,Gabon,GAB,2012,01/01/2012,67.7,Total,Africa,Sub-Saharan Africa
+GIN2012Fem,Guinea,GIN,2012,01/01/2012,37.3,Female,Africa,Sub-Saharan Africa
+GIN2012Mal,Guinea,GIN,2012,01/01/2012,37.3,Male,Africa,Sub-Saharan Africa
+GIN2012Tot,Guinea,GIN,2012,01/01/2012,37.3,Total,Africa,Sub-Saharan Africa
+HTI2012Fem,Haiti,HTI,2012,01/01/2012,36.2,Female,Americas,Latin America and the Caribbean
+HTI2012Mal,Haiti,HTI,2012,01/01/2012,39.4,Male,Americas,Latin America and the Caribbean
+HTI2012Tot,Haiti,HTI,2012,01/01/2012,37.9,Total,Americas,Latin America and the Caribbean
+HND2012Fem,Honduras,HND,2012,01/01/2012,64,Female,Americas,Latin America and the Caribbean
+HND2012Mal,Honduras,HND,2012,01/01/2012,63.8,Male,Americas,Latin America and the Caribbean
+HND2012Tot,Honduras,HND,2012,01/01/2012,63.9,Total,Americas,Latin America and the Caribbean
+IDN2012Fem,Indonesia,IDN,2012,01/01/2012,74.6,Female,Asia,South-eastern Asia
+IDN2012Mal,Indonesia,IDN,2012,01/01/2012,75.9,Male,Asia,South-eastern Asia
+IDN2012Tot,Indonesia,IDN,2012,01/01/2012,75.3,Total,Asia,South-eastern Asia
+JOR2012Fem,Jordan,JOR,2012,01/01/2012,74,Female,Asia,Western Asia
+JOR2012Mal,Jordan,JOR,2012,01/01/2012,79.1,Male,Asia,Western Asia
+JOR2012Tot,Jordan,JOR,2012,01/01/2012,77.2,Total,Asia,Western Asia
+KGZ2012Fem,Kyrgyzstan,KGZ,2012,01/01/2012,34.7,Female,Asia,Central Asia
+KGZ2012Tot,Kyrgyzstan,KGZ,2012,01/01/2012,33.2,Total,Asia,Central Asia
+LAO2012Fem,Lao People's Democratic Republic,LAO,2012,01/01/2012,55.9,Female,Asia,South-eastern Asia
+LAO2012Mal,Lao People's Democratic Republic,LAO,2012,01/01/2012,53.2,Male,Asia,South-eastern Asia
+LAO2012Tot,Lao People's Democratic Republic,LAO,2012,01/01/2012,54.4,Total,Asia,South-eastern Asia
+NIC2012Fem,Nicaragua,NIC,2012,01/01/2012,69.2,Female,Americas,Latin America and the Caribbean
+NIC2012Mal,Nicaragua,NIC,2012,01/01/2012,65.6,Male,Americas,Latin America and the Caribbean
+NIC2012Tot,Nicaragua,NIC,2012,01/01/2012,67.4,Total,Americas,Latin America and the Caribbean
+NER2012Fem,Niger,NER,2012,01/01/2012,53.7,Female,Africa,Sub-Saharan Africa
+NER2012Mal,Niger,NER,2012,01/01/2012,52.5,Male,Africa,Sub-Saharan Africa
+NER2012Tot,Niger,NER,2012,01/01/2012,53.1,Total,Africa,Sub-Saharan Africa
+PER2012Fem,Peru,PER,2012,01/01/2012,60,Female,Americas,Latin America and the Caribbean
+PER2012Mal,Peru,PER,2012,01/01/2012,58.7,Male,Americas,Latin America and the Caribbean
+PER2012Tot,Peru,PER,2012,01/01/2012,59.3,Total,Americas,Latin America and the Caribbean
+MDA2012Tot,"Moldova, Republic of",MDA,2012,01/01/2012,79.2,Total,Europe,Eastern Europe
+TJK2012Tot,Tajikistan,TJK,2012,01/01/2012,63,Total,Asia,Central Asia
+THA2012Fem,Thailand,THA,2012,01/01/2012,87.6,Female,Asia,South-eastern Asia
+THA2012Mal,Thailand,THA,2012,01/01/2012,78.2,Male,Asia,South-eastern Asia
+THA2012Tot,Thailand,THA,2012,01/01/2012,83.3,Total,Asia,South-eastern Asia
+TUN2012Fem,Tunisia,TUN,2012,01/01/2012,58,Female,Africa,Northern Africa
+TUN2012Mal,Tunisia,TUN,2012,01/01/2012,60.8,Male,Africa,Northern Africa
+TUN2012Tot,Tunisia,TUN,2012,01/01/2012,59.5,Total,Africa,Northern Africa
+UKR2012Fem,Ukraine,UKR,2012,01/01/2012,91,Female,Europe,Eastern Europe
+UKR2012Mal,Ukraine,UKR,2012,01/01/2012,93.2,Male,Europe,Eastern Europe
+UKR2012Tot,Ukraine,UKR,2012,01/01/2012,92.3,Total,Europe,Eastern Europe
+DZA2013Fem,Algeria,DZA,2013,01/01/2013,65.6,Female,Africa,Northern Africa
+DZA2013Mal,Algeria,DZA,2013,01/01/2013,67.1,Male,Africa,Northern Africa
+DZA2013Tot,Algeria,DZA,2013,01/01/2013,66.4,Total,Africa,Northern Africa
+BGD2013Fem,Bangladesh,BGD,2013,01/01/2013,31.9,Female,Asia,Southern Asia
+BGD2013Mal,Bangladesh,BGD,2013,01/01/2013,38.8,Male,Asia,Southern Asia
+BGD2013Tot,Bangladesh,BGD,2013,01/01/2013,35.8,Total,Asia,Southern Asia
+BOL2013Tot,"Bolivia, Plurinational State of",BOL,2013,01/01/2013,73.8,Total,Americas,Latin America and the Caribbean
+DOM2013Fem,Dominican Republic,DOM,2013,01/01/2013,68.8,Female,Americas,Latin America and the Caribbean
+DOM2013Mal,Dominican Republic,DOM,2013,01/01/2013,63.5,Male,Americas,Latin America and the Caribbean
+DOM2013Tot,Dominican Republic,DOM,2013,01/01/2013,66,Total,Americas,Latin America and the Caribbean
+GMB2013Fem,Gambia,GMB,2013,01/01/2013,62.5,Female,Africa,Sub-Saharan Africa
+GMB2013Mal,Gambia,GMB,2013,01/01/2013,72,Male,Africa,Sub-Saharan Africa
+GMB2013Tot,Gambia,GMB,2013,01/01/2013,68,Total,Africa,Sub-Saharan Africa
+LBR2013Fem,Liberia,LBR,2013,01/01/2013,44,Female,Africa,Sub-Saharan Africa
+LBR2013Mal,Liberia,LBR,2013,01/01/2013,56.5,Male,Africa,Sub-Saharan Africa
+LBR2013Tot,Liberia,LBR,2013,01/01/2013,50.7,Total,Africa,Sub-Saharan Africa
+MDG2013Fem,Madagascar,MDG,2013,01/01/2013,39.7,Female,Africa,Sub-Saharan Africa
+MDG2013Mal,Madagascar,MDG,2013,01/01/2013,41.3,Male,Africa,Sub-Saharan Africa
+MDG2013Tot,Madagascar,MDG,2013,01/01/2013,40.5,Total,Africa,Sub-Saharan Africa
+MLI2013Fem,Mali,MLI,2013,01/01/2013,22.4,Female,Africa,Sub-Saharan Africa
+MLI2013Mal,Mali,MLI,2013,01/01/2013,30.2,Male,Africa,Sub-Saharan Africa
+MLI2013Tot,Mali,MLI,2013,01/01/2013,26.7,Total,Africa,Sub-Saharan Africa
+NAM2013Tot,Namibia,NAM,2013,01/01/2013,68,Total,Africa,Sub-Saharan Africa
+NGA2013Fem,Nigeria,NGA,2013,01/01/2013,32.8,Female,Africa,Sub-Saharan Africa
+NGA2013Mal,Nigeria,NGA,2013,01/01/2013,36.2,Male,Africa,Sub-Saharan Africa
+NGA2013Tot,Nigeria,NGA,2013,01/01/2013,34.5,Total,Africa,Sub-Saharan Africa
+PAK2013Fem,Pakistan,PAK,2013,01/01/2013,62.3,Female,Asia,Southern Asia
+PAK2013Mal,Pakistan,PAK,2013,01/01/2013,66.4,Male,Asia,Southern Asia
+PAK2013Tot,Pakistan,PAK,2013,01/01/2013,64.4,Total,Asia,Southern Asia
+PAN2013Fem,Panama,PAN,2013,01/01/2013,79.7,Female,Americas,Latin America and the Caribbean
+PAN2013Mal,Panama,PAN,2013,01/01/2013,83.6,Male,Americas,Latin America and the Caribbean
+PAN2013Tot,Panama,PAN,2013,01/01/2013,81.6,Total,Americas,Latin America and the Caribbean
+PER2013Fem,Peru,PER,2013,01/01/2013,61.5,Female,Americas,Latin America and the Caribbean
+PER2013Mal,Peru,PER,2013,01/01/2013,58.1,Male,Americas,Latin America and the Caribbean
+PER2013Tot,Peru,PER,2013,01/01/2013,59.6,Total,Americas,Latin America and the Caribbean
+PHL2013Tot,Philippines,PHL,2013,01/01/2013,64,Total,Asia,South-eastern Asia
+SEN2013Fem,Senegal,SEN,2013,01/01/2013,51.6,Female,Africa,Sub-Saharan Africa
+SEN2013Mal,Senegal,SEN,2013,01/01/2013,54.5,Male,Africa,Sub-Saharan Africa
+SEN2013Tot,Senegal,SEN,2013,01/01/2013,53,Total,Africa,Sub-Saharan Africa
+SLE2013Fem,Sierra Leone,SLE,2013,01/01/2013,72.5,Female,Africa,Sub-Saharan Africa
+SLE2013Mal,Sierra Leone,SLE,2013,01/01/2013,70.9,Male,Africa,Sub-Saharan Africa
+SLE2013Tot,Sierra Leone,SLE,2013,01/01/2013,71.7,Total,Africa,Sub-Saharan Africa
+URY2013Fem,Uruguay,URY,2013,01/01/2013,80.6,Female,Americas,Latin America and the Caribbean
+URY2013Mal,Uruguay,URY,2013,01/01/2013,98,Male,Americas,Latin America and the Caribbean
+URY2013Tot,Uruguay,URY,2013,01/01/2013,91.1,Total,Americas,Latin America and the Caribbean
+VUT2013Tot,Vanuatu,VUT,2013,01/01/2013,72.1,Total,Oceania,Melanesia
+YEM2013Fem,Yemen,YEM,2013,01/01/2013,26.5,Female,Asia,Western Asia
+YEM2013Mal,Yemen,YEM,2013,01/01/2013,40.8,Male,Asia,Western Asia
+YEM2013Tot,Yemen,YEM,2013,01/01/2013,34,Total,Asia,Western Asia
+BGD2014Fem,Bangladesh,BGD,2014,01/01/2014,46.7,Female,Asia,Southern Asia
+BGD2014Mal,Bangladesh,BGD,2014,01/01/2014,38.8,Male,Asia,Southern Asia
+BGD2014Tot,Bangladesh,BGD,2014,01/01/2014,42,Total,Asia,Southern Asia
+BEN2014Fem,Benin,BEN,2014,01/01/2014,25.3,Female,Africa,Sub-Saharan Africa
+BEN2014Mal,Benin,BEN,2014,01/01/2014,21,Male,Africa,Sub-Saharan Africa
+BEN2014Tot,Benin,BEN,2014,01/01/2014,23.3,Total,Africa,Sub-Saharan Africa
+BOL2014Tot,"Bolivia, Plurinational State of",BOL,2014,01/01/2014,63.3,Total,Americas,Latin America and the Caribbean
+KHM2014Fem,Cambodia,KHM,2014,01/01/2014,75.9,Female,Asia,South-eastern Asia
+KHM2014Mal,Cambodia,KHM,2014,01/01/2014,62.2,Male,Asia,South-eastern Asia
+KHM2014Tot,Cambodia,KHM,2014,01/01/2014,68.8,Total,Asia,South-eastern Asia
+CMR2014Fem,Cameroon,CMR,2014,01/01/2014,28.8,Female,Africa,Sub-Saharan Africa
+CMR2014Mal,Cameroon,CMR,2014,01/01/2014,27.5,Male,Africa,Sub-Saharan Africa
+CMR2014Tot,Cameroon,CMR,2014,01/01/2014,28.1,Total,Africa,Sub-Saharan Africa
+CUB2014Fem,Cuba,CUB,2014,01/01/2014,90.4,Female,Americas,Latin America and the Caribbean
+CUB2014Mal,Cuba,CUB,2014,01/01/2014,94,Male,Americas,Latin America and the Caribbean
+CUB2014Tot,Cuba,CUB,2014,01/01/2014,92.6,Total,Americas,Latin America and the Caribbean
+COD2014Fem,"Congo, the Democratic Republic of the",COD,2014,01/01/2014,38.8,Female,Africa,Sub-Saharan Africa
+COD2014Mal,"Congo, the Democratic Republic of the",COD,2014,01/01/2014,44.4,Male,Africa,Sub-Saharan Africa
+COD2014Tot,"Congo, the Democratic Republic of the",COD,2014,01/01/2014,41.6,Total,Africa,Sub-Saharan Africa
+DOM2014Fem,Dominican Republic,DOM,2014,01/01/2014,71.3,Female,Americas,Latin America and the Caribbean
+DOM2014Mal,Dominican Republic,DOM,2014,01/01/2014,75.3,Male,Americas,Latin America and the Caribbean
+DOM2014Tot,Dominican Republic,DOM,2014,01/01/2014,73.4,Total,Americas,Latin America and the Caribbean
+EGY2014Fem,Egypt,EGY,2014,01/01/2014,66.1,Female,Africa,Northern Africa
+EGY2014Mal,Egypt,EGY,2014,01/01/2014,69.6,Male,Africa,Northern Africa
+EGY2014Tot,Egypt,EGY,2014,01/01/2014,68.1,Total,Africa,Northern Africa
+SLV2014Fem,El Salvador,SLV,2014,01/01/2014,80.5,Female,Americas,Latin America and the Caribbean
+SLV2014Mal,El Salvador,SLV,2014,01/01/2014,79,Male,Americas,Latin America and the Caribbean
+SLV2014Tot,El Salvador,SLV,2014,01/01/2014,79.7,Total,Americas,Latin America and the Caribbean
+SWZ2014Fem,Swaziland,SWZ,2014,01/01/2014,57.5,Female,Africa,Sub-Saharan Africa
+SWZ2014Mal,Swaziland,SWZ,2014,01/01/2014,61.8,Male,Africa,Sub-Saharan Africa
+SWZ2014Tot,Swaziland,SWZ,2014,01/01/2014,59.6,Total,Africa,Sub-Saharan Africa
+GHA2014Fem,Ghana,GHA,2014,01/01/2014,58.7,Female,Africa,Sub-Saharan Africa
+GHA2014Mal,Ghana,GHA,2014,01/01/2014,53.6,Male,Africa,Sub-Saharan Africa
+GHA2014Tot,Ghana,GHA,2014,01/01/2014,55.9,Total,Africa,Sub-Saharan Africa
+GNB2014Fem,Guinea-Bissau,GNB,2014,01/01/2014,31.2,Female,Africa,Sub-Saharan Africa
+GNB2014Mal,Guinea-Bissau,GNB,2014,01/01/2014,38.3,Male,Africa,Sub-Saharan Africa
+GNB2014Tot,Guinea-Bissau,GNB,2014,01/01/2014,34.3,Total,Africa,Sub-Saharan Africa
+GUY2014Mal,Guyana,GUY,2014,01/01/2014,77.4,Male,Americas,Latin America and the Caribbean
+GUY2014Tot,Guyana,GUY,2014,01/01/2014,83.6,Total,Americas,Latin America and the Caribbean
+IND2014Fem,India,IND,2014,01/01/2014,75.4,Female,Asia,Southern Asia
+IND2014Mal,India,IND,2014,01/01/2014,78.1,Male,Asia,Southern Asia
+IND2014Tot,India,IND,2014,01/01/2014,76.9,Total,Asia,Southern Asia
+KEN2014Fem,Kenya,KEN,2014,01/01/2014,63.7,Female,Africa,Sub-Saharan Africa
+KEN2014Mal,Kenya,KEN,2014,01/01/2014,67.7,Male,Africa,Sub-Saharan Africa
+KEN2014Tot,Kenya,KEN,2014,01/01/2014,65.7,Total,Africa,Sub-Saharan Africa
+KGZ2014Fem,Kyrgyzstan,KGZ,2014,01/01/2014,62.7,Female,Asia,Central Asia
+KGZ2014Tot,Kyrgyzstan,KGZ,2014,01/01/2014,59.7,Total,Asia,Central Asia
+LSO2014Fem,Lesotho,LSO,2014,01/01/2014,65.7,Female,Africa,Sub-Saharan Africa
+LSO2014Mal,Lesotho,LSO,2014,01/01/2014,60.5,Male,Africa,Sub-Saharan Africa
+LSO2014Tot,Lesotho,LSO,2014,01/01/2014,63.1,Total,Africa,Sub-Saharan Africa
+MWI2014Fem,Malawi,MWI,2014,01/01/2014,67.1,Female,Africa,Sub-Saharan Africa
+MWI2014Mal,Malawi,MWI,2014,01/01/2014,69.2,Male,Africa,Sub-Saharan Africa
+MWI2014Tot,Malawi,MWI,2014,01/01/2014,68.2,Total,Africa,Sub-Saharan Africa
+MNG2014Fem,Mongolia,MNG,2014,01/01/2014,66.3,Female,Asia,Eastern Asia
+MNG2014Mal,Mongolia,MNG,2014,01/01/2014,74.3,Male,Asia,Eastern Asia
+MNG2014Tot,Mongolia,MNG,2014,01/01/2014,70.3,Total,Asia,Eastern Asia
+NPL2014Fem,Nepal,NPL,2014,01/01/2014,53.2,Female,Asia,Southern Asia
+NPL2014Mal,Nepal,NPL,2014,01/01/2014,47.4,Male,Asia,Southern Asia
+NPL2014Tot,Nepal,NPL,2014,01/01/2014,50.1,Total,Asia,Southern Asia
+OMN2014Fem,Oman,OMN,2014,01/01/2014,55,Female,Asia,Western Asia
+OMN2014Mal,Oman,OMN,2014,01/01/2014,57.4,Male,Asia,Western Asia
+OMN2014Tot,Oman,OMN,2014,01/01/2014,56.3,Total,Asia,Western Asia
+PER2014Fem,Peru,PER,2014,01/01/2014,60.4,Female,Americas,Latin America and the Caribbean
+PER2014Mal,Peru,PER,2014,01/01/2014,60.3,Male,Americas,Latin America and the Caribbean
+PER2014Tot,Peru,PER,2014,01/01/2014,60.4,Total,Americas,Latin America and the Caribbean
+WSM2014Tot,Samoa,WSM,2014,01/01/2014,77.8,Total,Oceania,Polynesia
+STP2014Fem,Sao Tome and Principe,STP,2014,01/01/2014,66.4,Female,Africa,Sub-Saharan Africa
+STP2014Mal,Sao Tome and Principe,STP,2014,01/01/2014,70.7,Male,Africa,Sub-Saharan Africa
+STP2014Tot,Sao Tome and Principe,STP,2014,01/01/2014,68.9,Total,Africa,Sub-Saharan Africa
+SEN2014Fem,Senegal,SEN,2014,01/01/2014,33.6,Female,Africa,Sub-Saharan Africa
+SEN2014Mal,Senegal,SEN,2014,01/01/2014,48.9,Male,Africa,Sub-Saharan Africa
+SEN2014Tot,Senegal,SEN,2014,01/01/2014,42.2,Total,Africa,Sub-Saharan Africa
+PSE2014Fem,"Palestinian Territory, Occupied",PSE,2014,01/01/2014,73.7,Female,Asia,Western Asia
+PSE2014Mal,"Palestinian Territory, Occupied",PSE,2014,01/01/2014,78.7,Male,Asia,Western Asia
+PSE2014Tot,"Palestinian Territory, Occupied",PSE,2014,01/01/2014,76.5,Total,Asia,Western Asia
+SDN2014Fem,Sudan,SDN,2014,01/01/2014,48.5,Female,Africa,Northern Africa
+SDN2014Mal,Sudan,SDN,2014,01/01/2014,48.1,Male,Africa,Northern Africa
+SDN2014Tot,Sudan,SDN,2014,01/01/2014,48.3,Total,Africa,Northern Africa
+TGO2014Fem,Togo,TGO,2014,01/01/2014,47.9,Female,Africa,Sub-Saharan Africa
+TGO2014Mal,Togo,TGO,2014,01/01/2014,49,Male,Africa,Sub-Saharan Africa
+TGO2014Tot,Togo,TGO,2014,01/01/2014,48.5,Total,Africa,Sub-Saharan Africa
+VNM2014Fem,Viet Nam,VNM,2014,01/01/2014,75.8,Female,Asia,South-eastern Asia
+VNM2014Mal,Viet Nam,VNM,2014,01/01/2014,85.2,Male,Asia,South-eastern Asia
+VNM2014Tot,Viet Nam,VNM,2014,01/01/2014,81.1,Total,Asia,South-eastern Asia
+ZMB2014Fem,Zambia,ZMB,2014,01/01/2014,65.9,Female,Africa,Sub-Saharan Africa
+ZMB2014Mal,Zambia,ZMB,2014,01/01/2014,73.6,Male,Africa,Sub-Saharan Africa
+ZMB2014Tot,Zambia,ZMB,2014,01/01/2014,69.7,Total,Africa,Sub-Saharan Africa
+ZWE2014Fem,Zimbabwe,ZWE,2014,01/01/2014,58.7,Female,Africa,Sub-Saharan Africa
+ZWE2014Mal,Zimbabwe,ZWE,2014,01/01/2014,58.6,Male,Africa,Sub-Saharan Africa
+ZWE2014Tot,Zimbabwe,ZWE,2014,01/01/2014,58.6,Total,Africa,Sub-Saharan Africa
+AFG2015Fem,Afghanistan,AFG,2015,01/01/2015,60.4,Female,Asia,Southern Asia
+AFG2015Mal,Afghanistan,AFG,2015,01/01/2015,62.4,Male,Asia,Southern Asia
+AFG2015Tot,Afghanistan,AFG,2015,01/01/2015,61.5,Total,Asia,Southern Asia
+BOL2015Tot,"Bolivia, Plurinational State of",BOL,2015,01/01/2015,62.4,Total,Americas,Latin America and the Caribbean
+TCD2015Fem,Chad,TCD,2015,01/01/2015,24.5,Female,Africa,Sub-Saharan Africa
+TCD2015Mal,Chad,TCD,2015,01/01/2015,27.1,Male,Africa,Sub-Saharan Africa
+TCD2015Tot,Chad,TCD,2015,01/01/2015,25.8,Total,Africa,Sub-Saharan Africa
+COG2015Tot,Congo,COG,2015,01/01/2015,28.3,Total,Africa,Sub-Saharan Africa
+GTM2015Fem,Guatemala,GTM,2015,01/01/2015,53.6,Female,Americas,Latin America and the Caribbean
+GTM2015Mal,Guatemala,GTM,2015,01/01/2015,50.4,Male,Americas,Latin America and the Caribbean
+GTM2015Tot,Guatemala,GTM,2015,01/01/2015,52,Total,Americas,Latin America and the Caribbean
+MLI2015Fem,Mali,MLI,2015,01/01/2015,23.2,Female,Africa,Sub-Saharan Africa
+MLI2015Mal,Mali,MLI,2015,01/01/2015,22.7,Male,Africa,Sub-Saharan Africa
+MLI2015Tot,Mali,MLI,2015,01/01/2015,23,Total,Africa,Sub-Saharan Africa
+MRT2015Fem,Mauritania,MRT,2015,01/01/2015,33.8,Female,Africa,Sub-Saharan Africa
+MRT2015Mal,Mauritania,MRT,2015,01/01/2015,33.7,Male,Africa,Sub-Saharan Africa
+MRT2015Tot,Mauritania,MRT,2015,01/01/2015,33.7,Total,Africa,Sub-Saharan Africa
+MEX2015Fem,Mexico,MEX,2015,01/01/2015,78,Female,Americas,Latin America and the Caribbean
+MEX2015Mal,Mexico,MEX,2015,01/01/2015,67.2,Male,Americas,Latin America and the Caribbean
+MEX2015Tot,Mexico,MEX,2015,01/01/2015,73.1,Total,Americas,Latin America and the Caribbean
+MOZ2015Fem,Mozambique,MOZ,2015,01/01/2015,55.5,Female,Africa,Sub-Saharan Africa
+MOZ2015Mal,Mozambique,MOZ,2015,01/01/2015,57.5,Male,Africa,Sub-Saharan Africa
+MOZ2015Tot,Mozambique,MOZ,2015,01/01/2015,56.5,Total,Africa,Sub-Saharan Africa
+NER2015Tot,Niger,NER,2015,01/01/2015,59.3,Total,Africa,Sub-Saharan Africa
+PER2015Fem,Peru,PER,2015,01/01/2015,60.5,Female,Americas,Latin America and the Caribbean
+PER2015Mal,Peru,PER,2015,01/01/2015,64.2,Male,Americas,Latin America and the Caribbean
+PER2015Tot,Peru,PER,2015,01/01/2015,62.4,Total,Americas,Latin America and the Caribbean
+RWA2015Fem,Rwanda,RWA,2015,01/01/2015,49.3,Female,Africa,Sub-Saharan Africa
+RWA2015Mal,Rwanda,RWA,2015,01/01/2015,58.6,Male,Africa,Sub-Saharan Africa
+RWA2015Tot,Rwanda,RWA,2015,01/01/2015,53.9,Total,Africa,Sub-Saharan Africa
+SEN2015Fem,Senegal,SEN,2015,01/01/2015,43.3,Female,Africa,Sub-Saharan Africa
+SEN2015Mal,Senegal,SEN,2015,01/01/2015,53.1,Male,Africa,Sub-Saharan Africa
+SEN2015Tot,Senegal,SEN,2015,01/01/2015,48.2,Total,Africa,Sub-Saharan Africa
+SLB2015Fem,Solomon Islands,SLB,2015,01/01/2015,72.8,Female,Oceania,Melanesia
+SLB2015Mal,Solomon Islands,SLB,2015,01/01/2015,84.9,Male,Oceania,Melanesia
+SLB2015Tot,Solomon Islands,SLB,2015,01/01/2015,79,Total,Oceania,Melanesia
+ZWE2015Fem,Zimbabwe,ZWE,2015,01/01/2015,55.3,Female,Africa,Sub-Saharan Africa
+ZWE2015Mal,Zimbabwe,ZWE,2015,01/01/2015,47.3,Male,Africa,Sub-Saharan Africa
+ZWE2015Tot,Zimbabwe,ZWE,2015,01/01/2015,50.9,Total,Africa,Sub-Saharan Africa
+AGO2016Fem,Angola,AGO,2016,01/01/2016,47.2,Female,Africa,Sub-Saharan Africa
+AGO2016Mal,Angola,AGO,2016,01/01/2016,50.6,Male,Africa,Sub-Saharan Africa
+AGO2016Tot,Angola,AGO,2016,01/01/2016,49,Total,Africa,Sub-Saharan Africa
+ARM2016Tot,Armenia,ARM,2016,01/01/2016,91.7,Total,Asia,Western Asia
+BLZ2016Tot,Belize,BLZ,2016,01/01/2016,67.4,Total,Americas,Latin America and the Caribbean
+BOL2016Fem,"Bolivia, Plurinational State of",BOL,2016,01/01/2016,79.9,Female,Americas,Latin America and the Caribbean
+BOL2016Mal,"Bolivia, Plurinational State of",BOL,2016,01/01/2016,82.9,Male,Americas,Latin America and the Caribbean
+BOL2016Tot,"Bolivia, Plurinational State of",BOL,2016,01/01/2016,81.4,Total,Americas,Latin America and the Caribbean
+PRK2009Fem,"Korea, Democratic People's Republic of",PRK,2009,01/01/2009,81.8,Female,Asia,Eastern Asia
+PRK2009Mal,"Korea, Democratic People's Republic of",PRK,2009,01/01/2009,77.9,Male,Asia,Eastern Asia
+PRK2009Tot,"Korea, Democratic People's Republic of",PRK,2009,01/01/2009,79.8,Total,Asia,Eastern Asia
+ETH2016Fem,Ethiopia,ETH,2016,01/01/2016,27.5,Female,Africa,Sub-Saharan Africa
+ETH2016Mal,Ethiopia,ETH,2016,01/01/2016,32.1,Male,Africa,Sub-Saharan Africa
+ETH2016Tot,Ethiopia,ETH,2016,01/01/2016,29.8,Total,Africa,Sub-Saharan Africa
+GIN2016Fem,Guinea,GIN,2016,01/01/2016,31,Female,Africa,Sub-Saharan Africa
+GIN2016Mal,Guinea,GIN,2016,01/01/2016,28.2,Male,Africa,Sub-Saharan Africa
+GIN2016Tot,Guinea,GIN,2016,01/01/2016,29.6,Total,Africa,Sub-Saharan Africa
+IND2016Fem,India,IND,2016,01/01/2016,75.2,Female,Asia,Southern Asia
+IND2016Mal,India,IND,2016,01/01/2016,80.4,Male,Asia,Southern Asia
+IND2016Tot,India,IND,2016,01/01/2016,78.1,Total,Asia,Southern Asia
+MWI2016Fem,Malawi,MWI,2016,01/01/2016,76.2,Female,Africa,Sub-Saharan Africa
+MWI2016Mal,Malawi,MWI,2016,01/01/2016,72.7,Male,Africa,Sub-Saharan Africa
+MWI2016Tot,Malawi,MWI,2016,01/01/2016,74.4,Total,Africa,Sub-Saharan Africa
+MMR2016Fem,Burma,MMR,2016,01/01/2016,48.6,Female,Asia,South-eastern Asia
+MMR2016Mal,Burma,MMR,2016,01/01/2016,64.8,Male,Asia,South-eastern Asia
+MMR2016Tot,Burma,MMR,2016,01/01/2016,58.6,Total,Asia,South-eastern Asia
+NPL2016Fem,Nepal,NPL,2016,01/01/2016,49.7,Female,Asia,Southern Asia
+NPL2016Mal,Nepal,NPL,2016,01/01/2016,59,Male,Asia,Southern Asia
+NPL2016Tot,Nepal,NPL,2016,01/01/2016,55.1,Total,Asia,Southern Asia
+PRY2016Fem,Paraguay,PRY,2016,01/01/2016,88.8,Female,Americas,Latin America and the Caribbean
+PRY2016Mal,Paraguay,PRY,2016,01/01/2016,89.8,Male,Americas,Latin America and the Caribbean
+PRY2016Tot,Paraguay,PRY,2016,01/01/2016,89.4,Total,Americas,Latin America and the Caribbean
+SEN2016Fem,Senegal,SEN,2016,01/01/2016,48.3,Female,Africa,Sub-Saharan Africa
+SEN2016Mal,Senegal,SEN,2016,01/01/2016,47.9,Male,Africa,Sub-Saharan Africa
+SEN2016Tot,Senegal,SEN,2016,01/01/2016,48.1,Total,Africa,Sub-Saharan Africa
+ZAF2016Fem,South Africa,ZAF,2016,01/01/2016,63.1,Female,Africa,Sub-Saharan Africa
+ZAF2016Mal,South Africa,ZAF,2016,01/01/2016,67.4,Male,Africa,Sub-Saharan Africa
+ZAF2016Tot,South Africa,ZAF,2016,01/01/2016,65.7,Total,Africa,Sub-Saharan Africa
+LKA2016Fem,Sri Lanka,LKA,2016,01/01/2016,52.4,Female,Asia,Southern Asia
+LKA2016Mal,Sri Lanka,LKA,2016,01/01/2016,52.2,Male,Asia,Southern Asia
+LKA2016Tot,Sri Lanka,LKA,2016,01/01/2016,52.3,Total,Asia,Southern Asia
+THA2016Fem,Thailand,THA,2016,01/01/2016,84.2,Female,Asia,South-eastern Asia
+THA2016Mal,Thailand,THA,2016,01/01/2016,75.7,Male,Asia,South-eastern Asia
+THA2016Tot,Thailand,THA,2016,01/01/2016,79.5,Total,Asia,South-eastern Asia
+TLS2016Fem,Timor-Leste,TLS,2016,01/01/2016,75.9,Female,Asia,South-eastern Asia
+TLS2016Mal,Timor-Leste,TLS,2016,01/01/2016,66.5,Male,Asia,South-eastern Asia
+TLS2016Tot,Timor-Leste,TLS,2016,01/01/2016,70.3,Total,Asia,South-eastern Asia
+UGA2016Fem,Uganda,UGA,2016,01/01/2016,70.4,Female,Africa,Sub-Saharan Africa
+UGA2016Mal,Uganda,UGA,2016,01/01/2016,72.1,Male,Africa,Sub-Saharan Africa
+UGA2016Tot,Uganda,UGA,2016,01/01/2016,71.3,Total,Africa,Sub-Saharan Africa
+TZA2016Fem,"Tanzania, United Republic of",TZA,2016,01/01/2016,55.8,Female,Africa,Sub-Saharan Africa
+TZA2016Mal,"Tanzania, United Republic of",TZA,2016,01/01/2016,49,Male,Africa,Sub-Saharan Africa
+TZA2016Tot,"Tanzania, United Republic of",TZA,2016,01/01/2016,52.3,Total,Africa,Sub-Saharan Africa
+BDI2017Fem,Burundi,BDI,2017,01/01/2017,54.3,Female,Africa,Sub-Saharan Africa
+BDI2017Mal,Burundi,BDI,2017,01/01/2017,62.4,Male,Africa,Sub-Saharan Africa
+BDI2017Tot,Burundi,BDI,2017,01/01/2017,58.5,Total,Africa,Sub-Saharan Africa
+PRK2017Fem,"Korea, Democratic People's Republic of",PRK,2017,01/01/2017,88.4,Female,Asia,Eastern Asia
+PRK2017Mal,"Korea, Democratic People's Republic of",PRK,2017,01/01/2017,82.2,Male,Asia,Eastern Asia
+PRK2017Tot,"Korea, Democratic People's Republic of",PRK,2017,01/01/2017,85.6,Total,Asia,Eastern Asia
+HTI2017Fem,Haiti,HTI,2017,01/01/2017,40.9,Female,Americas,Latin America and the Caribbean
+HTI2017Mal,Haiti,HTI,2017,01/01/2017,30.1,Male,Americas,Latin America and the Caribbean
+HTI2017Tot,Haiti,HTI,2017,01/01/2017,35.4,Total,Americas,Latin America and the Caribbean
+IDN2017Fem,Indonesia,IDN,2017,01/01/2017,73.4,Female,Asia,South-eastern Asia
+IDN2017Mal,Indonesia,IDN,2017,01/01/2017,76.4,Male,Asia,South-eastern Asia
+IDN2017Tot,Indonesia,IDN,2017,01/01/2017,75,Total,Asia,South-eastern Asia
+LAO2017Fem,Lao People's Democratic Republic,LAO,2017,01/01/2017,32.8,Female,Asia,South-eastern Asia
+LAO2017Mal,Lao People's Democratic Republic,LAO,2017,01/01/2017,47.3,Male,Asia,South-eastern Asia
+LAO2017Tot,Lao People's Democratic Republic,LAO,2017,01/01/2017,39.8,Total,Asia,South-eastern Asia
+NGA2017Fem,Nigeria,NGA,2017,01/01/2017,22.8,Female,Africa,Sub-Saharan Africa
+NGA2017Mal,Nigeria,NGA,2017,01/01/2017,24.6,Male,Africa,Sub-Saharan Africa
+NGA2017Tot,Nigeria,NGA,2017,01/01/2017,23.7,Total,Africa,Sub-Saharan Africa
+PHL2017Fem,Philippines,PHL,2017,01/01/2017,58.8,Female,Asia,South-eastern Asia
+PHL2017Mal,Philippines,PHL,2017,01/01/2017,69.3,Male,Asia,South-eastern Asia
+PHL2017Tot,Philippines,PHL,2017,01/01/2017,66,Total,Asia,South-eastern Asia
+SEN2017Fem,Senegal,SEN,2017,01/01/2017,50.2,Female,Africa,Sub-Saharan Africa
+SEN2017Mal,Senegal,SEN,2017,01/01/2017,53.8,Male,Africa,Sub-Saharan Africa
+SEN2017Tot,Senegal,SEN,2017,01/01/2017,52,Total,Africa,Sub-Saharan Africa
+SLE2017Fem,Sierra Leone,SLE,2017,01/01/2017,74,Female,Africa,Sub-Saharan Africa
+SLE2017Mal,Sierra Leone,SLE,2017,01/01/2017,73.6,Male,Africa,Sub-Saharan Africa
+SLE2017Tot,Sierra Leone,SLE,2017,01/01/2017,73.8,Total,Africa,Sub-Saharan Africa
+TJK2017Mal,Tajikistan,TJK,2017,01/01/2017,59,Male,Asia,Central Asia
+TJK2017Tot,Tajikistan,TJK,2017,01/01/2017,68.5,Total,Asia,Central Asia
+TGO2017Fem,Togo,TGO,2017,01/01/2017,43.3,Female,Africa,Sub-Saharan Africa
+TGO2017Mal,Togo,TGO,2017,01/01/2017,36.1,Male,Africa,Sub-Saharan Africa
+TGO2017Tot,Togo,TGO,2017,01/01/2017,39,Total,Africa,Sub-Saharan Africa
+AFG2018Fem,Afghanistan,AFG,2018,01/01/2018,70.1,Female,Asia,Southern Asia
+AFG2018Mal,Afghanistan,AFG,2018,01/01/2018,65.2,Male,Asia,Southern Asia
+AFG2018Tot,Afghanistan,AFG,2018,01/01/2018,67.7,Total,Asia,Southern Asia
+ALB2018Fem,Albania,ALB,2018,01/01/2018,83,Female,Europe,Southern Europe
+ALB2018Mal,Albania,ALB,2018,01/01/2018,80.8,Male,Europe,Southern Europe
+ALB2018Tot,Albania,ALB,2018,01/01/2018,81.8,Total,Europe,Southern Europe
+BGD2018Fem,Bangladesh,BGD,2018,01/01/2018,30.1,Female,Asia,Southern Asia
+BGD2018Mal,Bangladesh,BGD,2018,01/01/2018,44,Male,Asia,Southern Asia
+BGD2018Tot,Bangladesh,BGD,2018,01/01/2018,38.8,Total,Asia,Southern Asia
+BEN2018Fem,Benin,BEN,2018,01/01/2018,26.8,Female,Africa,Sub-Saharan Africa
+BEN2018Mal,Benin,BEN,2018,01/01/2018,30.9,Male,Africa,Sub-Saharan Africa
+BEN2018Tot,Benin,BEN,2018,01/01/2018,29,Total,Africa,Sub-Saharan Africa
+CPV2018Fem,Cape Verde,CPV,2018,01/01/2018,46.1,Female,Africa,Northern Africa
+CPV2018Mal,Cape Verde,CPV,2018,01/01/2018,62.1,Male,Africa,Northern Africa
+CPV2018Tot,Cape Verde,CPV,2018,01/01/2018,53.4,Total,Africa,Northern Africa
+CMR2018Fem,Cameroon,CMR,2018,01/01/2018,29.5,Female,Africa,Sub-Saharan Africa
+CMR2018Mal,Cameroon,CMR,2018,01/01/2018,30,Male,Africa,Sub-Saharan Africa
+CMR2018Tot,Cameroon,CMR,2018,01/01/2018,29.8,Total,Africa,Sub-Saharan Africa
+CRI2018Fem,Costa Rica,CRI,2018,01/01/2018,77.3,Female,Americas,Latin America and the Caribbean
+CRI2018Mal,Costa Rica,CRI,2018,01/01/2018,82.6,Male,Americas,Latin America and the Caribbean
+CRI2018Tot,Costa Rica,CRI,2018,01/01/2018,80.3,Total,Americas,Latin America and the Caribbean
+COD2018Fem,"Congo, the Democratic Republic of the",COD,2018,01/01/2018,36.3,Female,Africa,Sub-Saharan Africa
+COD2018Mal,"Congo, the Democratic Republic of the",COD,2018,01/01/2018,31.6,Male,Africa,Sub-Saharan Africa
+COD2018Tot,"Congo, the Democratic Republic of the",COD,2018,01/01/2018,34.2,Total,Africa,Sub-Saharan Africa
+ECU2018Tot,Ecuador,ECU,2018,01/01/2018,70.7,Total,Americas,Latin America and the Caribbean
+GMB2018Fem,Gambia,GMB,2018,01/01/2018,52.7,Female,Africa,Sub-Saharan Africa
+GMB2018Mal,Gambia,GMB,2018,01/01/2018,53.6,Male,Africa,Sub-Saharan Africa
+GMB2018Tot,Gambia,GMB,2018,01/01/2018,53.2,Total,Africa,Sub-Saharan Africa
+GHA2018Fem,Ghana,GHA,2018,01/01/2018,54.3,Female,Africa,Sub-Saharan Africa
+GHA2018Mal,Ghana,GHA,2018,01/01/2018,56.6,Male,Africa,Sub-Saharan Africa
+GHA2018Tot,Ghana,GHA,2018,01/01/2018,55.5,Total,Africa,Sub-Saharan Africa
+GIN2018Fem,Guinea,GIN,2018,01/01/2018,73.9,Female,Africa,Sub-Saharan Africa
+GIN2018Mal,Guinea,GIN,2018,01/01/2018,65.5,Male,Africa,Sub-Saharan Africa
+GIN2018Tot,Guinea,GIN,2018,01/01/2018,69.4,Total,Africa,Sub-Saharan Africa
+IRQ2018Fem,Iraq,IRQ,2018,01/01/2018,37,Female,Asia,Western Asia
+IRQ2018Mal,Iraq,IRQ,2018,01/01/2018,50,Male,Asia,Western Asia
+IRQ2018Tot,Iraq,IRQ,2018,01/01/2018,44.4,Total,Asia,Western Asia
+JOR2018Fem,Jordan,JOR,2018,01/01/2018,58.5,Female,Asia,Western Asia
+JOR2018Mal,Jordan,JOR,2018,01/01/2018,62.9,Male,Asia,Western Asia
+JOR2018Tot,Jordan,JOR,2018,01/01/2018,60.9,Total,Asia,Western Asia
+LSO2018Fem,Lesotho,LSO,2018,01/01/2018,54,Female,Africa,Sub-Saharan Africa
+LSO2018Mal,Lesotho,LSO,2018,01/01/2018,61.6,Male,Africa,Sub-Saharan Africa
+LSO2018Tot,Lesotho,LSO,2018,01/01/2018,57.5,Total,Africa,Sub-Saharan Africa
+MDG2018Fem,Madagascar,MDG,2018,01/01/2018,41.3,Female,Africa,Sub-Saharan Africa
+MDG2018Mal,Madagascar,MDG,2018,01/01/2018,39.6,Male,Africa,Sub-Saharan Africa
+MDG2018Tot,Madagascar,MDG,2018,01/01/2018,40.4,Total,Africa,Sub-Saharan Africa
+MLI2018Fem,Mali,MLI,2018,01/01/2018,32.2,Female,Africa,Sub-Saharan Africa
+MLI2018Mal,Mali,MLI,2018,01/01/2018,37,Male,Africa,Sub-Saharan Africa
+MLI2018Tot,Mali,MLI,2018,01/01/2018,34.7,Total,Africa,Sub-Saharan Africa
+MNG2018Fem,Mongolia,MNG,2018,01/01/2018,80.8,Female,Asia,Eastern Asia
+MNG2018Mal,Mongolia,MNG,2018,01/01/2018,71.5,Male,Asia,Eastern Asia
+MNG2018Tot,Mongolia,MNG,2018,01/01/2018,76,Total,Asia,Eastern Asia
+MAR2018Tot,Morocco,MAR,2018,01/01/2018,70.3,Total,Africa,Northern Africa
+NGA2018Fem,Nigeria,NGA,2018,01/01/2018,40.2,Female,Africa,Sub-Saharan Africa
+NGA2018Mal,Nigeria,NGA,2018,01/01/2018,40.1,Male,Africa,Sub-Saharan Africa
+NGA2018Tot,Nigeria,NGA,2018,01/01/2018,40.1,Total,Africa,Sub-Saharan Africa
+PAK2018Fem,Pakistan,PAK,2018,01/01/2018,69.7,Female,Asia,Southern Asia
+PAK2018Mal,Pakistan,PAK,2018,01/01/2018,72.4,Male,Asia,Southern Asia
+PAK2018Tot,Pakistan,PAK,2018,01/01/2018,71.1,Total,Asia,Southern Asia
+PNG2018Fem,Papua New Guinea,PNG,2018,01/01/2018,57.9,Female,Oceania,Melanesia
+PNG2018Mal,Papua New Guinea,PNG,2018,01/01/2018,67.8,Male,Oceania,Melanesia
+PNG2018Tot,Papua New Guinea,PNG,2018,01/01/2018,62.6,Total,Oceania,Melanesia
+SEN2018Fem,Senegal,SEN,2018,01/01/2018,47.4,Female,Africa,Sub-Saharan Africa
+SEN2018Mal,Senegal,SEN,2018,01/01/2018,46.3,Male,Africa,Sub-Saharan Africa
+SEN2018Tot,Senegal,SEN,2018,01/01/2018,46.9,Total,Africa,Sub-Saharan Africa
+SUR2018Tot,Suriname,SUR,2018,01/01/2018,89.1,Total,Americas,Latin America and the Caribbean
+TUN2018Fem,Tunisia,TUN,2018,01/01/2018,97.1,Female,Africa,Northern Africa
+TUN2018Mal,Tunisia,TUN,2018,01/01/2018,97.9,Male,Africa,Northern Africa
+TUN2018Tot,Tunisia,TUN,2018,01/01/2018,97.5,Total,Africa,Northern Africa
+DZA2019Fem,Algeria,DZA,2019,01/01/2019,44.4,Female,Africa,Northern Africa
+DZA2019Mal,Algeria,DZA,2019,01/01/2019,49,Male,Africa,Northern Africa
+DZA2019Tot,Algeria,DZA,2019,01/01/2019,47,Total,Africa,Northern Africa
+BGD2019Fem,Bangladesh,BGD,2019,01/01/2019,46,Female,Asia,Southern Asia
+BGD2019Mal,Bangladesh,BGD,2019,01/01/2019,46.8,Male,Asia,Southern Asia
+BGD2019Tot,Bangladesh,BGD,2019,01/01/2019,46.4,Total,Asia,Southern Asia
+BLR2019Tot,Belarus,BLR,2019,01/01/2019,92.8,Total,Europe,Eastern Europe
+CAF2019Fem,Central African Republic,CAF,2019,01/01/2019,35.8,Female,Africa,Sub-Saharan Africa
+CAF2019Mal,Central African Republic,CAF,2019,01/01/2019,33.7,Male,Africa,Sub-Saharan Africa
+CAF2019Tot,Central African Republic,CAF,2019,01/01/2019,34.7,Total,Africa,Sub-Saharan Africa
+TCD2019Fem,Chad,TCD,2019,01/01/2019,16.3,Female,Africa,Sub-Saharan Africa
+TCD2019Mal,Chad,TCD,2019,01/01/2019,18.7,Male,Africa,Sub-Saharan Africa
+TCD2019Tot,Chad,TCD,2019,01/01/2019,17.6,Total,Africa,Sub-Saharan Africa
+CUB2019Tot,Cuba,CUB,2019,01/01/2019,89.6,Total,Americas,Latin America and the Caribbean
+DOM2019Fem,Dominican Republic,DOM,2019,01/01/2019,85.5,Female,Americas,Latin America and the Caribbean
+DOM2019Mal,Dominican Republic,DOM,2019,01/01/2019,83.7,Male,Americas,Latin America and the Caribbean
+DOM2019Tot,Dominican Republic,DOM,2019,01/01/2019,84.5,Total,Americas,Latin America and the Caribbean
+GNB2019Fem,Guinea-Bissau,GNB,2019,01/01/2019,44.9,Female,Africa,Sub-Saharan Africa
+GNB2019Mal,Guinea-Bissau,GNB,2019,01/01/2019,49.9,Male,Africa,Sub-Saharan Africa
+GNB2019Tot,Guinea-Bissau,GNB,2019,01/01/2019,47.6,Total,Africa,Sub-Saharan Africa
+HND2019Fem,Honduras,HND,2019,01/01/2019,72.6,Female,Americas,Latin America and the Caribbean
+HND2019Mal,Honduras,HND,2019,01/01/2019,68,Male,Americas,Latin America and the Caribbean
+HND2019Tot,Honduras,HND,2019,01/01/2019,70.1,Total,Americas,Latin America and the Caribbean
+KIR2019Fem,Kiribati,KIR,2019,01/01/2019,81.1,Female,Oceania,Micronesia
+KIR2019Mal,Kiribati,KIR,2019,01/01/2019,90.9,Male,Oceania,Micronesia
+KIR2019Tot,Kiribati,KIR,2019,01/01/2019,86.5,Total,Oceania,Micronesia
+NPL2019Fem,Nepal,NPL,2019,01/01/2019,88,Female,Asia,Southern Asia
+NPL2019Mal,Nepal,NPL,2019,01/01/2019,77.9,Male,Asia,Southern Asia
+NPL2019Tot,Nepal,NPL,2019,01/01/2019,82,Total,Asia,Southern Asia
+PER2019Tot,Peru,PER,2019,01/01/2019,61.3,Total,Americas,Latin America and the Caribbean
+STP2019Tot,Sao Tome and Principe,STP,2019,01/01/2019,82.4,Total,Africa,Sub-Saharan Africa
+SEN2019Fem,Senegal,SEN,2019,01/01/2019,45,Female,Africa,Sub-Saharan Africa
+SEN2019Mal,Senegal,SEN,2019,01/01/2019,49.9,Male,Africa,Sub-Saharan Africa
+SEN2019Tot,Senegal,SEN,2019,01/01/2019,47.6,Total,Africa,Sub-Saharan Africa
+SLE2019Fem,Sierra Leone,SLE,2019,01/01/2019,81,Female,Africa,Sub-Saharan Africa
+SLE2019Mal,Sierra Leone,SLE,2019,01/01/2019,71.5,Male,Africa,Sub-Saharan Africa
+SLE2019Tot,Sierra Leone,SLE,2019,01/01/2019,75.8,Total,Africa,Sub-Saharan Africa
+SOM2006Fem,Somalia,SOM,2006,01/01/2006,11.4,Female,Africa,Sub-Saharan Africa
+SOM2006Mal,Somalia,SOM,2006,01/01/2006,14.4,Male,Africa,Sub-Saharan Africa
+SOM2006Tot,Somalia,SOM,2006,01/01/2006,13,Total,Africa,Sub-Saharan Africa
+ZMB2019Fem,Zambia,ZMB,2019,01/01/2019,70,Female,Africa,Sub-Saharan Africa
+ZMB2019Mal,Zambia,ZMB,2019,01/01/2019,81.1,Male,Africa,Sub-Saharan Africa
+ZMB2019Tot,Zambia,ZMB,2019,01/01/2019,75.2,Total,Africa,Sub-Saharan Africa
+ZWE2019Tot,Zimbabwe,ZWE,2019,01/01/2019,48,Total,Africa,Sub-Saharan Africa
+ARG2020Tot,Argentina,ARG,2020,01/01/2020,94.2,Total,Americas,Latin America and the Caribbean
+GMB2020Fem,Gambia,GMB,2020,01/01/2020,58.7,Female,Africa,Sub-Saharan Africa
+GMB2020Mal,Gambia,GMB,2020,01/01/2020,67.3,Male,Africa,Sub-Saharan Africa
+GMB2020Tot,Gambia,GMB,2020,01/01/2020,63.8,Total,Africa,Sub-Saharan Africa
+GUY2020Mal,Guyana,GUY,2020,01/01/2020,78.9,Male,Americas,Latin America and the Caribbean
+GUY2020Tot,Guyana,GUY,2020,01/01/2020,83.7,Total,Americas,Latin America and the Caribbean
+LBR2020Fem,Liberia,LBR,2020,01/01/2020,57.5,Female,Africa,Sub-Saharan Africa
+LBR2020Mal,Liberia,LBR,2020,01/01/2020,58.1,Male,Africa,Sub-Saharan Africa
+LBR2020Tot,Liberia,LBR,2020,01/01/2020,57.8,Total,Africa,Sub-Saharan Africa
+MWI2020Fem,Malawi,MWI,2020,01/01/2020,72.1,Female,Africa,Sub-Saharan Africa
+MWI2020Mal,Malawi,MWI,2020,01/01/2020,70.2,Male,Africa,Sub-Saharan Africa
+MWI2020Tot,Malawi,MWI,2020,01/01/2020,71.1,Total,Africa,Sub-Saharan Africa
+PER2020Fem,Peru,PER,2020,01/01/2020,47.4,Female,Americas,Latin America and the Caribbean
+PER2020Mal,Peru,PER,2020,01/01/2020,52.7,Male,Americas,Latin America and the Caribbean
+PER2020Tot,Peru,PER,2020,01/01/2020,50.3,Total,Americas,Latin America and the Caribbean
+RWA2020Fem,Rwanda,RWA,2020,01/01/2020,70.1,Female,Africa,Sub-Saharan Africa
+RWA2020Mal,Rwanda,RWA,2020,01/01/2020,61.1,Male,Africa,Sub-Saharan Africa
+RWA2020Tot,Rwanda,RWA,2020,01/01/2020,65.2,Total,Africa,Sub-Saharan Africa
+WSM2020Tot,Samoa,WSM,2020,01/01/2020,72.4,Total,Oceania,Polynesia
+SSD2020Tot,South Sudan,SSD,2020,01/01/2020,74.8,Total,Africa,Sub-Saharan Africa
+PSE2020Fem,"Palestinian Territory, Occupied",PSE,2020,01/01/2020,78.9,Female,Asia,Western Asia
+PSE2020Mal,"Palestinian Territory, Occupied",PSE,2020,01/01/2020,76.1,Male,Asia,Western Asia
+PSE2020Tot,"Palestinian Territory, Occupied",PSE,2020,01/01/2020,77.3,Total,Asia,Western Asia
+SOM2019Fem,Somalia,SOM,2019,01/01/2019,22.9,Female,Africa,Sub-Saharan Africa
+SOM2019Mal,Somalia,SOM,2019,01/01/2019,22.1,Male,Africa,Sub-Saharan Africa
+SOM2019Tot,Somalia,SOM,2019,01/01/2019,22.5,Total,Africa,Sub-Saharan Africa
+EGY2021Fem,Egypt,EGY,2021,01/01/2021,62.2,Female,Africa,Northern Africa
+EGY2021Mal,Egypt,EGY,2021,01/01/2021,61.3,Male,Africa,Northern Africa
+EGY2021Tot,Egypt,EGY,2021,01/01/2021,61.7,Total,Africa,Northern Africa
+SLV2021Fem,El Salvador,SLV,2021,01/01/2021,60.5,Female,Americas,Latin America and the Caribbean
+SLV2021Mal,El Salvador,SLV,2021,01/01/2021,60.9,Male,Americas,Latin America and the Caribbean
+SLV2021Tot,El Salvador,SLV,2021,01/01/2021,60.7,Total,Americas,Latin America and the Caribbean
+IND2021Fem,India,IND,2021,01/01/2021,50.5,Female,Asia,Southern Asia
+IND2021Mal,India,IND,2021,01/01/2021,53.7,Male,Asia,Southern Asia
+IND2021Tot,India,IND,2021,01/01/2021,56.1,Total,Asia,Southern Asia
+MDG2021Fem,Madagascar,MDG,2021,01/01/2021,49.5,Female,Africa,Sub-Saharan Africa
+MDG2021Mal,Madagascar,MDG,2021,01/01/2021,52.9,Male,Africa,Sub-Saharan Africa
+MDG2021Tot,Madagascar,MDG,2021,01/01/2021,51.5,Total,Africa,Sub-Saharan Africa
+MRT2021Fem,Mauritania,MRT,2021,01/01/2021,38,Female,Africa,Sub-Saharan Africa
+MRT2021Mal,Mauritania,MRT,2021,01/01/2021,47.6,Male,Africa,Sub-Saharan Africa
+MRT2021Tot,Mauritania,MRT,2021,01/01/2021,42.9,Total,Africa,Sub-Saharan Africa
+NER2021Tot,Niger,NER,2021,01/01/2021,60.4,Total,Africa,Sub-Saharan Africa
+NGA2021Fem,Nigeria,NGA,2021,01/01/2021,40.1,Female,Africa,Sub-Saharan Africa
+NGA2021Mal,Nigeria,NGA,2021,01/01/2021,38.8,Male,Africa,Sub-Saharan Africa
+NGA2021Tot,Nigeria,NGA,2021,01/01/2021,39.4,Total,Africa,Sub-Saharan Africa
+VNM2021Tot,Viet Nam,VNM,2021,01/01/2021,72.6,Total,Asia,South-eastern Asia
